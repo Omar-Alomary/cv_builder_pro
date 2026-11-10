@@ -1,0 +1,23 @@
+{
+  "fullName": "مستخدم تجريبي",
+  "email": "demo@example.com",
+  "phone": "+966500000000",
+  "address": "الرياض، المملكة العربية السعودية",
+  "summary": "مطور تطبيقات طور حلولاً عملية باستخدام Flutter وDart، مع خبرة في العمل الجماعي والتواصل وحل المشكلات وقيادة المشاريع وتحسين جودة المنتجات.",
+  "education": [{"degree":"بكالوريوس علوم الحاسب","institution":"جامعة تجريبية","year":"2024","grade":"ممتاز","description":"مشروع تخرج في تطوير التطبيقات."}],
+  "experience": [{"jobTitle":"مطور تطبيقات","company":"شركة تجريبية","startDate":"01/2024","endDate":null,"isCurrent":true,"description":"Developed تطبيقات متعددة المنصات، وحسّنت جودة الإصدارات وعملت مع فريق التصميم."}],
+  "skills": [{"name":"Flutter","level":5},{"name":"Dart","level":5},{"name":"Git","level":4},{"name":"SQL","level":4},{"name":"Python","level":3},{"name":"Teamwork","level":4},{"name":"Communication","level":4},{"name":"Leadership","level":4},{"name":"Problem-solving","level":4},{"name":"Testing","level":4}],
+  "courses": [{"name":"تطوير التطبيقات","provider":"منصة تجريبية","year":"2025","certificateUrl":"https://example.com/course"}],
+  "certificates": [{"name":"شهادة تقنية","organization":"جهة تجريبية","year":"2025","credentialId":"DEMO-123"}],
+  "languages": [{"name":"العربية","level":"Native"},{"name":"English","level":"Fluent"}],
+  "projects": [{"name":"مشروع تجريبي","description":"تطبيق لتنظيم المهام مع حفظ محلي.","startDate":"01/2024","endDate":"12/2024","isCurrent":false,"technologies":["Flutter","Dart","Web, Mobile"]}],
+  "achievements": [{"name":"إنجاز تجريبي","description":"تحسين أداء تطبيق ضمن فريق عمل.","date":"01/2025","organization":"جهة تجريبية","category":"تصنيف مخصص"}],
+  "linkedin":"https://linkedin.com/in/example",
+  "github":"https://github.com/example",
+  "website":"https://example.com",
+  "portfolio":"https://example.com/portfolio",
+  "interests":["Reading","العمل التطوعي"],
+  "templateId":"ats",
+  "isFavorite":false,
+  "customization":{"fontFamily":"Cairo","fontSize":11.0,"primaryColor":4278190080,"secondaryColor":4278190080}
+}

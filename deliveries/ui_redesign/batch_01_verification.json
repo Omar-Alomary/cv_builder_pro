@@ -1,0 +1,16 @@
+{
+  "batch": "ui_redesign_01",
+  "scope": "lib/app/theme only; verification tests and delivery artifacts",
+  "businessLogicChanged": false,
+  "dependenciesAdded": false,
+  "analysisIssues": 0,
+  "testsPassed": 280,
+  "newTests": 23,
+  "widths": [320,390,600,1024,1920],
+  "locales": ["ar","en"],
+  "brightness": ["light","dark"],
+  "layoutTextScale": 2,
+  "contrastMinimum": 4.5,
+  "previews": ["batch_01_light_en.png","batch_01_dark_ar.png"],
+  "nativeDeviceRun": "not repeated in this batch"
+}

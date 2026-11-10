@@ -1,0 +1,16 @@
+{
+  "batch":"ui_redesign_03",
+  "businessLogicChanged":false,
+  "dependenciesAdded":false,
+  "analysisIssues":0,
+  "testsPassed":352,
+  "newTests":43,
+  "widths":[320,390,600,1024,1920],
+  "locales":["ar","en"],
+  "brightness":["light","dark"],
+  "layoutTextScale":2,
+  "existingOnboardingTestsPassed":8,
+  "splashNavigationDelaySeconds":3,
+  "nativeDeviceRun":"not repeated in this batch",
+  "previews":["batch_03_splash_light_en.png","batch_03_splash_dark_ar.png","batch_03_language_light_en.png","batch_03_language_dark_ar.png"]
+}

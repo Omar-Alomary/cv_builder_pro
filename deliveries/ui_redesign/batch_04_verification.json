@@ -1,0 +1,45 @@
+{
+  "batch": "ui_redesign_04",
+  "businessLogicChanged": false,
+  "dependenciesAdded": false,
+  "analysisIssues": 0,
+  "testsPassed": 376,
+  "newTests": 24,
+  "existingHomeTestsPassed": 11,
+  "widths": [
+    320,
+    390,
+    600,
+    1024,
+    1920
+  ],
+  "locales": [
+    "ar",
+    "en"
+  ],
+  "brightness": [
+    "light",
+    "dark"
+  ],
+  "layoutTextScale": 2,
+  "nativeDeviceRun": "not repeated in this batch",
+  "previews": [
+    "batch_04_home_light_en.png",
+    "batch_04_home_dark_ar.png",
+    "batch_04_desktop_light_en.png"
+  ],
+  "sourceFiles": [
+    "lib/app/theme/app_colors.dart",
+    "lib/shared_widgets/app_button.dart",
+    "lib/features/home/index.dart",
+    "lib/features/home/presentation/pages/home_screen.dart",
+    "lib/features/home/presentation/widgets/home_header.dart",
+    "lib/features/home/presentation/widgets/stats_cards.dart",
+    "lib/features/home/presentation/widgets/home_quick_actions.dart",
+    "lib/features/home/presentation/widgets/template_carousel.dart",
+    "lib/features/home/presentation/widgets/recent_activity_card.dart",
+    "lib/features/home/presentation/widgets/marquee_header.dart",
+    "test/home/home_test.dart",
+    "test/home/redesign_dashboard_test.dart"
+  ]
+}

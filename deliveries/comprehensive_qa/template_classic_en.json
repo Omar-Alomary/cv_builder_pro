@@ -1,0 +1,372 @@
+{
+  "ack": "1793321785472913400",
+  "route": "/preview",
+  "errors": [],
+  "resumes": [
+    {
+      "id": 1793318359971705,
+      "fullName": "QA Review User 20261030",
+      "email": "qa.review@example.com",
+      "phone": "+966501234567",
+      "address": null,
+      "profilePicture": null,
+      "summary": null,
+      "education": [
+        {
+          "degree": "BSc Computer Science",
+          "institution": "QA University",
+          "year": "2020",
+          "grade": null,
+          "description": null
+        }
+      ],
+      "experience": [
+        {
+          "jobTitle": "Senior Engineer",
+          "company": "QA Software",
+          "startDate": "01/2020",
+          "endDate": null,
+          "isCurrent": true,
+          "description": null
+        }
+      ],
+      "skills": [
+        {
+          "name": "Flutter",
+          "level": 3
+        },
+        {
+          "name": "Dart",
+          "level": 3
+        },
+        {
+          "name": "Communication",
+          "level": 3
+        }
+      ],
+      "courses": [
+        {
+          "name": "Advanced Flutter",
+          "provider": "QA Academy",
+          "year": "2024",
+          "certificateUrl": null
+        }
+      ],
+      "certificates": [
+        {
+          "name": "Cloud Certificate",
+          "organization": "QA Cloud",
+          "year": "2024",
+          "credentialId": null
+        }
+      ],
+      "languages": [
+        {
+          "name": "English",
+          "level": "Fluent"
+        }
+      ],
+      "projects": [
+        {
+          "name": "QA Project",
+          "description": "Developed a reliable Flutter application.",
+          "startDate": "01/2024",
+          "endDate": null,
+          "isCurrent": true,
+          "technologies": [
+            "Flutter, Dart"
+          ]
+        }
+      ],
+      "achievements": [
+        {
+          "name": "QA Award",
+          "description": "Delivered a 20 percent performance improvement.",
+          "date": "07/2024",
+          "organization": "QA Team",
+          "category": "Software"
+        }
+      ],
+      "linkedin": null,
+      "github": null,
+      "website": null,
+      "portfolio": null,
+      "interests": [
+        "Reading"
+      ],
+      "templateId": "ats",
+      "createdAt": "2026-10-30T02:55:09.690314",
+      "updatedAt": "2026-10-30T03:45:28.088380",
+      "isFavorite": false,
+      "customization": null
+    },
+    {
+      "id": 1793321622155902,
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "address": null,
+      "profilePicture": null,
+      "summary": null,
+      "education": [],
+      "experience": [],
+      "skills": [],
+      "courses": [],
+      "certificates": [],
+      "languages": [],
+      "projects": [],
+      "achievements": [],
+      "linkedin": null,
+      "github": null,
+      "website": null,
+      "portfolio": null,
+      "interests": null,
+      "templateId": "modern",
+      "createdAt": "2026-10-30T03:53:42.155119",
+      "updatedAt": "2026-10-30T03:53:42.156219",
+      "isFavorite": false,
+      "customization": null
+    },
+    {
+      "id": 1793321643177142,
+      "fullName": "أحمد محمد العُمري",
+      "email": "ahmed.omari@example.com",
+      "phone": "+966501234567",
+      "address": "الرياض، السعودية",
+      "profilePicture": null,
+      "summary": "Senior Software Engineer\nمهندس برمجيات بخبرة 8+ سنوات في تطوير تطبيقات موثوقة وقابلة للتوسع باستخدام Flutter وPython. قيادة الفرق وتحسين الأداء بنسبة 35%.",
+      "education": [
+        {
+          "degree": "بكالوريوس علوم حاسب",
+          "institution": "جامعة الملك سعود",
+          "year": "2016",
+          "grade": null,
+          "description": "2012–2016"
+        }
+      ],
+      "experience": [
+        {
+          "jobTitle": "Senior Software Engineer",
+          "company": "Google",
+          "startDate": "01/2020",
+          "endDate": null,
+          "isCurrent": true,
+          "description": "Led teams developing reliable applications.\nقيادة فريق هندسي وتحسين الأداء بنسبة 35%."
+        },
+        {
+          "jobTitle": "Software Engineer",
+          "company": "Microsoft",
+          "startDate": "01/2018",
+          "endDate": "12/2020",
+          "isCurrent": false,
+          "description": "Developed cloud services using Python and AWS.\nتطوير خدمات سحابية ومراجعة جودة البرمجيات."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Flutter",
+          "level": 5
+        },
+        {
+          "name": "Dart",
+          "level": 5
+        },
+        {
+          "name": "Python",
+          "level": 5
+        },
+        {
+          "name": "React",
+          "level": 5
+        },
+        {
+          "name": "AWS",
+          "level": 5
+        }
+      ],
+      "courses": [],
+      "certificates": [
+        {
+          "name": "AWS Solutions Architect",
+          "organization": "Amazon Web Services",
+          "year": "2023",
+          "credentialId": null
+        }
+      ],
+      "languages": [
+        {
+          "name": "العربية",
+          "level": "أصلية"
+        },
+        {
+          "name": "English",
+          "level": "Fluent"
+        }
+      ],
+      "projects": [
+        {
+          "name": "منصة إدارة المشاريع | Project Hub",
+          "description": "تطبيق متجاوب لإدارة المشاريع ومتابعة فرق العمل.",
+          "startDate": "01/2024",
+          "endDate": "12/2024",
+          "isCurrent": false,
+          "technologies": [
+            "Flutter",
+            "AWS"
+          ]
+        }
+      ],
+      "achievements": [
+        {
+          "name": "Engineering Excellence Award",
+          "description": "جائزة التميز الهندسي وتحسين تجربة المستخدم.",
+          "date": "2024",
+          "organization": null,
+          "category": null
+        }
+      ],
+      "linkedin": null,
+      "github": null,
+      "website": null,
+      "portfolio": null,
+      "interests": [
+        "القراءة",
+        "Open-source software"
+      ],
+      "templateId": "modern_en",
+      "createdAt": "2026-10-30T03:54:03.148881",
+      "updatedAt": "2026-10-30T03:54:03.177148",
+      "isFavorite": false,
+      "customization": {
+        "fontFamily": "Poppins",
+        "fontSize": 10.0,
+        "verificationCase": "modern_en"
+      }
+    }
+  ],
+  "current": {
+    "id": null,
+    "fullName": "أحمد محمد العُمري",
+    "email": "ahmed.omari@example.com",
+    "phone": "+966501234567",
+    "address": "الرياض، السعودية",
+    "profilePicture": null,
+    "summary": "Senior Software Engineer\nمهندس برمجيات بخبرة 8+ سنوات في تطوير تطبيقات موثوقة وقابلة للتوسع باستخدام Flutter وPython. قيادة الفرق وتحسين الأداء بنسبة 35%.",
+    "education": [
+      {
+        "degree": "بكالوريوس علوم حاسب",
+        "institution": "جامعة الملك سعود",
+        "year": "2016",
+        "grade": null,
+        "description": "2012–2016"
+      }
+    ],
+    "experience": [
+      {
+        "jobTitle": "Senior Software Engineer",
+        "company": "Google",
+        "startDate": "01/2020",
+        "endDate": null,
+        "isCurrent": true,
+        "description": "Led teams developing reliable applications.\nقيادة فريق هندسي وتحسين الأداء بنسبة 35%."
+      },
+      {
+        "jobTitle": "Software Engineer",
+        "company": "Microsoft",
+        "startDate": "01/2018",
+        "endDate": "12/2020",
+        "isCurrent": false,
+        "description": "Developed cloud services using Python and AWS.\nتطوير خدمات سحابية ومراجعة جودة البرمجيات."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Flutter",
+        "level": 5
+      },
+      {
+        "name": "Dart",
+        "level": 5
+      },
+      {
+        "name": "Python",
+        "level": 5
+      },
+      {
+        "name": "React",
+        "level": 5
+      },
+      {
+        "name": "AWS",
+        "level": 5
+      }
+    ],
+    "courses": [],
+    "certificates": [
+      {
+        "name": "AWS Solutions Architect",
+        "organization": "Amazon Web Services",
+        "year": "2023",
+        "credentialId": null
+      }
+    ],
+    "languages": [
+      {
+        "name": "العربية",
+        "level": "أصلية"
+      },
+      {
+        "name": "English",
+        "level": "Fluent"
+      }
+    ],
+    "projects": [
+      {
+        "name": "منصة إدارة المشاريع | Project Hub",
+        "description": "تطبيق متجاوب لإدارة المشاريع ومتابعة فرق العمل.",
+        "startDate": "01/2024",
+        "endDate": "12/2024",
+        "isCurrent": false,
+        "technologies": [
+          "Flutter",
+          "AWS"
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "name": "Engineering Excellence Award",
+        "description": "جائزة التميز الهندسي وتحسين تجربة المستخدم.",
+        "date": "2024",
+        "organization": null,
+        "category": null
+      }
+    ],
+    "linkedin": null,
+    "github": null,
+    "website": null,
+    "portfolio": null,
+    "interests": [
+      "القراءة",
+      "Open-source software"
+    ],
+    "templateId": "classic_en",
+    "createdAt": "2026-10-30T03:55:58.316914",
+    "updatedAt": null,
+    "isFavorite": false,
+    "customization": {
+      "fontFamily": "Poppins",
+      "fontSize": 10.0,
+      "verificationCase": "classic_en"
+    }
+  },
+  "locale": "en",
+  "profile": null,
+  "dark": false,
+  "metrics": {
+    "physicalWidth": 1080.0,
+    "physicalHeight": 2136.0,
+    "dpr": 3.0,
+    "keyboardBottom": 0.0
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "sample": "business_ar",
+    "pages": 2,
+    "characters": 758
+  },
+  {
+    "sample": "business_en",
+    "pages": 2,
+    "characters": 797
+  },
+  {
+    "sample": "business_long",
+    "pages": 24,
+    "characters": 22240
+  },
+  {
+    "sample": "classic_ar",
+    "pages": 2,
+    "characters": 758
+  },
+  {
+    "sample": "classic_en",
+    "pages": 2,
+    "characters": 797
+  },
+  {
+    "sample": "classic_long",
+    "pages": 24,
+    "characters": 22240
+  },
+  {
+    "sample": "modern_ar",
+    "pages": 2,
+    "characters": 758
+  },
+  {
+    "sample": "modern_en",
+    "pages": 2,
+    "characters": 797
+  },
+  {
+    "sample": "modern_long",
+    "pages": 24,
+    "characters": 22240
+  },
+  {
+    "sample": "technical_ar",
+    "pages": 2,
+    "characters": 758
+  },
+  {
+    "sample": "technical_en",
+    "pages": 2,
+    "characters": 797
+  },
+  {
+    "sample": "technical_long",
+    "pages": 24,
+    "characters": 22240
+  }
+]

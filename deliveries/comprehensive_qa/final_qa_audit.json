@@ -1,0 +1,16 @@
+{
+  "ack": "1793327239587699000",
+  "route": "/import-resume",
+  "errors": [],
+  "resumes": [],
+  "current": null,
+  "locale": "ar",
+  "profile": null,
+  "dark": false,
+  "metrics": {
+    "physicalWidth": 1080.0,
+    "physicalHeight": 2136.0,
+    "dpr": 3.0,
+    "keyboardBottom": 0.0
+  }
+}

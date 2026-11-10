@@ -1,0 +1,9 @@
+export 'splash/index.dart';
+export 'language/index.dart';
+export 'home/index.dart';
+export 'templates/index.dart';
+export 'favorites/index.dart';
+export 'settings/index.dart';
+export 'import_resume/index.dart';
+export 'resume_builder/index.dart';
+export 'ats_checker/index.dart';

@@ -1,0 +1,54 @@
+[
+  {
+    "source": "arabic",
+    "savedId": 1793307965689283,
+    "fieldsPreserved": true,
+    "counts": {
+      "education": 1,
+      "experience": 2,
+      "skills": 27,
+      "projects": 5,
+      "certificates": 7,
+      "languages": 2
+    }
+  },
+  {
+    "source": "english",
+    "savedId": 1793308091975365,
+    "fieldsPreserved": true,
+    "counts": {
+      "education": 1,
+      "experience": 2,
+      "skills": 27,
+      "projects": 5,
+      "certificates": 7,
+      "languages": 2
+    }
+  },
+  {
+    "source": "json",
+    "savedId": 1793306633901812,
+    "fieldsPreserved": true,
+    "counts": {
+      "education": 1,
+      "experience": 2,
+      "skills": 5,
+      "projects": 1,
+      "certificates": 1,
+      "languages": 2
+    }
+  },
+  {
+    "source": "txt",
+    "savedId": 1793306915600399,
+    "fieldsPreserved": true,
+    "counts": {
+      "education": 1,
+      "experience": 2,
+      "skills": 5,
+      "projects": 0,
+      "certificates": 0,
+      "languages": 2
+    }
+  }
+]

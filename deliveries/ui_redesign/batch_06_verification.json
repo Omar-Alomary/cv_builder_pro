@@ -1,0 +1,34 @@
+{
+  "batch": "ui_redesign_06",
+  "businessLogicChanged": false,
+  "dependenciesAdded": false,
+  "analysisIssues": 0,
+  "fullSuiteTestsPassed": 443,
+  "newTests": 21,
+  "existingSettingsTestsPassed": 11,
+  "finalSettingsTestsPassed": 32,
+  "finalChange": "switch thumb contrast; analysis and settings tests repeated",
+  "widths": [
+    320,
+    390,
+    600,
+    1024,
+    1920
+  ],
+  "locales": [
+    "ar",
+    "en"
+  ],
+  "brightness": [
+    "light",
+    "dark"
+  ],
+  "layoutTextScale": 2,
+  "nativeDeviceRun": "not repeated in this batch",
+  "previews": [
+    "batch_06_settings_dark_ar_1920.png",
+    "batch_06_settings_dark_ar_390.png",
+    "batch_06_settings_light_en_1920.png",
+    "batch_06_settings_light_en_390.png"
+  ]
+}

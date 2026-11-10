@@ -1,0 +1,15 @@
+{
+  "reviewDate": "2026-10-23",
+  "project": "cv_builder_pro",
+  "flutter": "3.38.9",
+  "dart": "3.10.8",
+  "libDartFiles": 128,
+  "pubGet": "passed",
+  "analysis": {"status":"passed","issues":0},
+  "tests": {"status":"passed","passed":257},
+  "windowsRun": {"status":"blocked","reason":"Plugins require symlink support; enable Developer Mode"},
+  "androidRun": {"status":"blocked","device":"SM N975U","deviceId":"R38M906C8XE","attempts":2,"reason":"Gradle: java.io.IOException: Unable to establish loopback connection"},
+  "nativeFileDialogsPrintingSharing": "not manually verified; mocked in tests",
+  "pdfImport": "limited simple ASCII text PDFs; no OCR, encryption or complex font encoding",
+  "releaseConfiguration": "store URL, support email, Android application ID and release signing require owner configuration"
+}

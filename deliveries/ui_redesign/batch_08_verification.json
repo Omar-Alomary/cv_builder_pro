@@ -1,0 +1,38 @@
+{
+  "batch": "ui_redesign_08",
+  "businessLogicChanged": false,
+  "dependenciesAdded": false,
+  "analysisIssues": 0,
+  "fullSuiteTestsPassed": 518,
+  "newTests": 46,
+  "existingPreviewAndAtsTestsPassed": 23,
+  "actualPdfFixtureGeneration": "passed: Arabic and English",
+  "previewsUse": "rendered first page from actual PdfService output via injected test previewBuilder",
+  "nativePdfViewerAndDeviceRun": "not verified in this batch",
+  "widths": [
+    320,
+    390,
+    600,
+    1024,
+    1920
+  ],
+  "locales": [
+    "ar",
+    "en"
+  ],
+  "brightness": [
+    "light",
+    "dark"
+  ],
+  "layoutTextScale": 2,
+  "previews": [
+    "batch_08_ats_dark_ar_1920.png",
+    "batch_08_ats_dark_ar_390.png",
+    "batch_08_ats_light_en_1920.png",
+    "batch_08_ats_light_en_390.png",
+    "batch_08_preview_dark_ar_1920.png",
+    "batch_08_preview_dark_ar_390.png",
+    "batch_08_preview_light_en_1920.png",
+    "batch_08_preview_light_en_390.png"
+  ]
+}

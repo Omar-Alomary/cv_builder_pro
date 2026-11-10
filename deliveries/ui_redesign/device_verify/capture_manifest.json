@@ -1,0 +1,72 @@
+[
+  {
+    "templateId": "modern",
+    "locale": "ar",
+    "pages": 2,
+    "screenshot": "modern_ar.png",
+    "input": "Fixture supplied to production builder; visually reviewed on phone"
+  },
+  {
+    "templateId": "classic",
+    "locale": "ar",
+    "pages": 2,
+    "screenshot": "classic_ar.png",
+    "input": "Fixture supplied to production builder; visually reviewed on phone"
+  },
+  {
+    "templateId": "business",
+    "locale": "ar",
+    "pages": 2,
+    "screenshot": "business_ar.png",
+    "input": "Fixture supplied to production builder; visually reviewed on phone"
+  },
+  {
+    "templateId": "ats",
+    "locale": "ar",
+    "pages": 2,
+    "screenshot": "ats_ar.png",
+    "input": "Fixture supplied to production builder; visually reviewed on phone"
+  },
+  {
+    "templateId": "modern_en",
+    "locale": "en",
+    "pages": 2,
+    "screenshot": "modern_en.png",
+    "input": "Fixture supplied to production builder; visually reviewed on phone"
+  },
+  {
+    "templateId": "classic_en",
+    "locale": "en",
+    "pages": 2,
+    "screenshot": "classic_en.png",
+    "input": "Fixture supplied to production builder; visually reviewed on phone"
+  },
+  {
+    "templateId": "business_en",
+    "locale": "en",
+    "pages": 2,
+    "screenshot": "business_en.png",
+    "input": "Fixture supplied to production builder; visually reviewed on phone"
+  },
+  {
+    "templateId": "technical_en",
+    "locale": "en",
+    "pages": 2,
+    "screenshot": "technical_en.png",
+    "input": "Fixture supplied to production builder; visually reviewed on phone"
+  },
+  {
+    "templateId": "ats_en",
+    "locale": "en",
+    "pages": 2,
+    "screenshot": "ats_en.png",
+    "input": "Fixture supplied to production builder; visually reviewed on phone"
+  },
+  {
+    "templateId": "technical",
+    "locale": "ar",
+    "pages": 2,
+    "screenshot": "technical_ar.png",
+    "input": "Fixture supplied to production builder; visually reviewed on phone"
+  }
+]

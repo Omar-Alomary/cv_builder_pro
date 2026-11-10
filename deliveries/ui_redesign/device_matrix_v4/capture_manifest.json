@@ -1,0 +1,290 @@
+[
+  {
+    "index": 0,
+    "template": "modern",
+    "language": "ar",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "00_modern_ar_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 1,
+    "template": "modern",
+    "language": "ar",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "01_modern_ar_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 2,
+    "template": "modern",
+    "language": "ar",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "02_modern_ar_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 3,
+    "template": "modern",
+    "language": "ar",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "03_modern_ar_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 4,
+    "template": "modern",
+    "language": "ar",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "04_modern_ar_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 5,
+    "template": "modern",
+    "language": "ar",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "05_modern_ar_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 6,
+    "template": "modern",
+    "language": "en",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "06_modern_en_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 7,
+    "template": "modern",
+    "language": "en",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "07_modern_en_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 8,
+    "template": "modern",
+    "language": "en",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "08_modern_en_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 9,
+    "template": "modern",
+    "language": "en",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "09_modern_en_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 10,
+    "template": "modern",
+    "language": "en",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "10_modern_en_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 11,
+    "template": "modern",
+    "language": "en",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "11_modern_en_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 12,
+    "template": "modern",
+    "language": "mixed",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "12_modern_mixed_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 13,
+    "template": "modern",
+    "language": "mixed",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "13_modern_mixed_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 14,
+    "template": "modern",
+    "language": "mixed",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "14_modern_mixed_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 15,
+    "template": "modern",
+    "language": "mixed",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "15_modern_mixed_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 16,
+    "template": "modern",
+    "language": "mixed",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "16_modern_mixed_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 17,
+    "template": "modern",
+    "language": "mixed",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "17_modern_mixed_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 18,
+    "template": "classic",
+    "language": "ar",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "18_classic_ar_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 19,
+    "template": "classic",
+    "language": "ar",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "19_classic_ar_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 20,
+    "template": "classic",
+    "language": "ar",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "20_classic_ar_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 21,
+    "template": "classic",
+    "language": "ar",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "21_classic_ar_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 22,
+    "template": "classic",
+    "language": "ar",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "22_classic_ar_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 23,
+    "template": "classic",
+    "language": "ar",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "23_classic_ar_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 24,
+    "template": "classic",
+    "language": "en",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "24_classic_en_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 25,
+    "template": "classic",
+    "language": "en",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "25_classic_en_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 26,
+    "template": "classic",
+    "language": "en",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "26_classic_en_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 27,
+    "template": "classic",
+    "language": "en",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "27_classic_en_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 28,
+    "template": "classic",
+    "language": "en",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "28_classic_en_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 29,
+    "template": "classic",
+    "language": "en",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "29_classic_en_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 30,
+    "template": "classic",
+    "language": "mixed",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "30_classic_mixed_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 31,
+    "template": "classic",
+    "language": "mixed",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "31_classic_mixed_Cairo_dark",
+    "visual_review": "pending"
+  }
+]

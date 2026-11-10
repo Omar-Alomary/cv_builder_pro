@@ -1,0 +1,155 @@
+[
+  {
+    "text": "",
+    "content-desc": "Back",
+    "class": "android.widget.Button",
+    "bounds": "[12,97][156,241]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Edit Resume",
+    "class": "android.view.View",
+    "bounds": "[216,132][546,207]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Change Template",
+    "class": "android.widget.Button",
+    "bounds": "[480,277][624,421]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Export JSON",
+    "class": "android.widget.Button",
+    "bounds": "[624,277][768,421]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Preview",
+    "class": "android.widget.Button",
+    "bounds": "[768,277][912,421]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Save and close",
+    "class": "android.widget.Button",
+    "bounds": "[912,277][1056,421]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Saved",
+    "class": "android.view.View",
+    "bounds": "[48,433][1032,493]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Modern Template",
+    "class": "android.view.View",
+    "bounds": "[144,574][1032,628]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "1\nPersonal Information",
+    "class": "android.widget.Button",
+    "bounds": "[48,661][408,961]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "2\nEducation",
+    "class": "android.widget.Button",
+    "bounds": "[480,661][840,907]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "3\nExperience",
+    "class": "android.widget.Button",
+    "bounds": "[912,661][1032,907]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Change profile photo",
+    "class": "android.widget.ImageView",
+    "bounds": "[396,1081][684,1369]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Change profile photo",
+    "class": "android.widget.Button",
+    "bounds": "[540,1225][684,1369]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Change profile photo",
+    "class": "android.widget.Button",
+    "bounds": "[48,1405][1032,1549]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "Release QA 20261031",
+    "content-desc": "",
+    "class": "android.widget.EditText",
+    "bounds": "[48,1621][1032,1789]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "release.qa@example.com",
+    "content-desc": "",
+    "class": "android.widget.EditText",
+    "bounds": "[48,1837][1032,1896]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Next",
+    "class": "android.widget.Button",
+    "bounds": "[48,1944][1032,2051]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  }
+]

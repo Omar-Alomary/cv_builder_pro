@@ -1,0 +1,85 @@
+{
+  "id": null,
+  "fullName": "أحمد محمد العُمري",
+  "email": "ahmed.omari@example.com",
+  "phone": "+966501234567",
+  "address": "الرياض، السعودية",
+  "profilePicture": null,
+  "summary": "Senior Software Engineer\nمهندس برمجيات بخبرة 8+ سنوات في تطوير التطبيقات.",
+  "education": [
+    {
+      "degree": "بكالوريوس علوم حاسب",
+      "institution": "جامعة الملك سعود",
+      "year": "2016",
+      "grade": null,
+      "description": null
+    }
+  ],
+  "experience": [
+    {
+      "jobTitle": "Senior Software Engineer",
+      "company": "Google",
+      "startDate": "2020",
+      "endDate": null,
+      "isCurrent": true,
+      "description": "Led teams developing Flutter applications."
+    },
+    {
+      "jobTitle": "Software Engineer",
+      "company": "Microsoft",
+      "startDate": "2018",
+      "endDate": "2020",
+      "isCurrent": false,
+      "description": "Developed cloud services."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Flutter",
+      "level": 3
+    },
+    {
+      "name": "Dart",
+      "level": 3
+    },
+    {
+      "name": "Python",
+      "level": 3
+    },
+    {
+      "name": "React",
+      "level": 3
+    },
+    {
+      "name": "AWS",
+      "level": 3
+    }
+  ],
+  "courses": [],
+  "certificates": [],
+  "languages": [
+    {
+      "name": "Arabic",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "Fluent"
+    }
+  ],
+  "projects": [],
+  "achievements": [],
+  "linkedin": null,
+  "github": null,
+  "website": null,
+  "portfolio": null,
+  "interests": [
+    "القراءة",
+    "Open source"
+  ],
+  "templateId": "modern",
+  "createdAt": "2026-10-29T23:48:24.438444",
+  "updatedAt": null,
+  "isFavorite": false,
+  "customization": null
+}

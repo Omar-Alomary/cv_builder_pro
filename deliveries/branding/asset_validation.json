@@ -1,0 +1,22 @@
+{
+  "icon_size": [
+    1024,
+    1024
+  ],
+  "icon_mode": "RGB",
+  "splash_mark_size": [
+    1024,
+    1024
+  ],
+  "splash_mark_alpha": [
+    0,
+    255
+  ],
+  "android_label": "CV Maker Pro",
+  "ios_display_name": "CV Maker Pro",
+  "android12_colors": {
+    "values-v31": "#4F46E5",
+    "values-night-v31": "#4F46E5"
+  },
+  "ios_icon_count": 21
+}

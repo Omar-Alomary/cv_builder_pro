@@ -1,0 +1,167 @@
+{
+  "ack": "1793321649363468800",
+  "route": "/ats-checker",
+  "errors": [],
+  "resumes": [
+    {
+      "id": 1793318359971705,
+      "fullName": "QA Review User 20261030",
+      "email": "qa.review@example.com",
+      "phone": "+966501234567",
+      "address": null,
+      "profilePicture": null,
+      "summary": null,
+      "education": [
+        {
+          "degree": "BSc Computer Science",
+          "institution": "QA University",
+          "year": "2020",
+          "grade": null,
+          "description": null
+        }
+      ],
+      "experience": [
+        {
+          "jobTitle": "Senior Engineer",
+          "company": "QA Software",
+          "startDate": "01/2020",
+          "endDate": null,
+          "isCurrent": true,
+          "description": null
+        }
+      ],
+      "skills": [
+        {
+          "name": "Flutter",
+          "level": 3
+        },
+        {
+          "name": "Dart",
+          "level": 3
+        },
+        {
+          "name": "Communication",
+          "level": 3
+        }
+      ],
+      "courses": [
+        {
+          "name": "Advanced Flutter",
+          "provider": "QA Academy",
+          "year": "2024",
+          "certificateUrl": null
+        }
+      ],
+      "certificates": [
+        {
+          "name": "Cloud Certificate",
+          "organization": "QA Cloud",
+          "year": "2024",
+          "credentialId": null
+        }
+      ],
+      "languages": [
+        {
+          "name": "English",
+          "level": "Fluent"
+        }
+      ],
+      "projects": [
+        {
+          "name": "QA Project",
+          "description": "Developed a reliable Flutter application.",
+          "startDate": "01/2024",
+          "endDate": null,
+          "isCurrent": true,
+          "technologies": [
+            "Flutter, Dart"
+          ]
+        }
+      ],
+      "achievements": [
+        {
+          "name": "QA Award",
+          "description": "Delivered a 20 percent performance improvement.",
+          "date": "07/2024",
+          "organization": "QA Team",
+          "category": "Software"
+        }
+      ],
+      "linkedin": null,
+      "github": null,
+      "website": null,
+      "portfolio": null,
+      "interests": [
+        "Reading"
+      ],
+      "templateId": "ats",
+      "createdAt": "2026-10-30T02:55:09.690314",
+      "updatedAt": "2026-10-30T03:45:28.088380",
+      "isFavorite": false,
+      "customization": null
+    },
+    {
+      "id": 1793321622155902,
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "address": null,
+      "profilePicture": null,
+      "summary": null,
+      "education": [],
+      "experience": [],
+      "skills": [],
+      "courses": [],
+      "certificates": [],
+      "languages": [],
+      "projects": [],
+      "achievements": [],
+      "linkedin": null,
+      "github": null,
+      "website": null,
+      "portfolio": null,
+      "interests": null,
+      "templateId": "modern",
+      "createdAt": "2026-10-30T03:53:42.155119",
+      "updatedAt": "2026-10-30T03:53:42.156219",
+      "isFavorite": false,
+      "customization": null
+    }
+  ],
+  "current": {
+    "id": 1793321622155902,
+    "fullName": "",
+    "email": "",
+    "phone": "",
+    "address": null,
+    "profilePicture": null,
+    "summary": null,
+    "education": [],
+    "experience": [],
+    "skills": [],
+    "courses": [],
+    "certificates": [],
+    "languages": [],
+    "projects": [],
+    "achievements": [],
+    "linkedin": null,
+    "github": null,
+    "website": null,
+    "portfolio": null,
+    "interests": null,
+    "templateId": "modern",
+    "createdAt": "2026-10-30T03:53:42.155119",
+    "updatedAt": "2026-10-30T03:53:42.156219",
+    "isFavorite": false,
+    "customization": null
+  },
+  "locale": "en",
+  "profile": null,
+  "dark": false,
+  "metrics": {
+    "physicalWidth": 1080.0,
+    "physicalHeight": 2136.0,
+    "dpr": 3.0,
+    "keyboardBottom": 0.0
+  }
+}

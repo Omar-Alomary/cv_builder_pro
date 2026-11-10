@@ -1,0 +1,200 @@
+[
+  {
+    "text": "",
+    "content-desc": "CV Maker Pro\nWelcome back!",
+    "class": "android.view.View",
+    "bounds": "[48,112][445,250]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Settings",
+    "class": "android.widget.ImageView",
+    "bounds": "[888,109][1032,253]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Create New Resume",
+    "class": "android.view.View",
+    "bounds": "[291,400][912,484]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Start by creating your first professional resume.",
+    "class": "android.view.View",
+    "bounds": "[291,508][957,622]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Start",
+    "class": "android.widget.Button",
+    "bounds": "[123,670][385,820]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Import",
+    "class": "android.widget.Button",
+    "bounds": "[409,670][671,820]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Check ATS",
+    "class": "android.widget.Button",
+    "bounds": "[695,670][957,820]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "1\nResumes",
+    "class": "android.widget.Button",
+    "bounds": "[72,919][320,1063]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "10\nTemplates",
+    "class": "android.widget.Button",
+    "bounds": "[356,919][653,1063]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "0\nFavorites",
+    "class": "android.widget.Button",
+    "bounds": "[689,919][945,1063]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Recent Resumes",
+    "class": "android.view.View",
+    "bounds": "[120,1150][528,1216]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "View All",
+    "class": "android.widget.Button",
+    "bounds": "[847,1111][1008,1255]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Release QA 20261031\nRelease QA 20261031\nJust now",
+    "class": "android.widget.ImageView",
+    "bounds": "[72,1279][744,1819]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Edit",
+    "class": "android.widget.Button",
+    "bounds": "[108,1639][252,1783]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Change Template",
+    "class": "android.widget.Button",
+    "bounds": "[260,1639][404,1783]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Favorites",
+    "class": "android.widget.Button",
+    "bounds": "[412,1639][556,1783]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Delete",
+    "class": "android.widget.Button",
+    "bounds": "[564,1639][708,1783]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "View All",
+    "class": "android.widget.Button",
+    "bounds": "[847,1867][1008,1896]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Home\nTab 1 of 4",
+    "class": "android.widget.Button",
+    "bounds": "[0,1896][270,2051]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Templates\nTab 2 of 4",
+    "class": "android.widget.Button",
+    "bounds": "[270,1896][540,2051]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Favorites\nTab 3 of 4",
+    "class": "android.widget.Button",
+    "bounds": "[540,1896][810,2051]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Settings\nTab 4 of 4",
+    "class": "android.widget.Button",
+    "bounds": "[810,1896][1080,2051]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  }
+]

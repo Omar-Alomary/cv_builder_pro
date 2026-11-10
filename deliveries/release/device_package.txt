@@ -1,0 +1,520 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        657ab00 com.example.cv_builder_pro/.MainActivity filter b6dff39
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      androidx.profileinstaller.action.SAVE_PROFILE:
+        20c772c com.example.cv_builder_pro/androidx.profileinstaller.ProfileInstallReceiver filter 1d4b9fb
+          Action: "androidx.profileinstaller.action.SAVE_PROFILE"
+      EXTRA_CHOSEN_COMPONENT:
+        af397e com.example.cv_builder_pro/dev.fluttercommunity.plus.share.SharePlusPendingIntent filter 3940edf
+          Action: "EXTRA_CHOSEN_COMPONENT"
+      androidx.profileinstaller.action.INSTALL_PROFILE:
+        20c772c com.example.cv_builder_pro/androidx.profileinstaller.ProfileInstallReceiver filter 3a655f5
+          Action: "androidx.profileinstaller.action.INSTALL_PROFILE"
+      androidx.profileinstaller.action.SKIP_FILE:
+        20c772c com.example.cv_builder_pro/androidx.profileinstaller.ProfileInstallReceiver filter c816f8a
+          Action: "androidx.profileinstaller.action.SKIP_FILE"
+      androidx.profileinstaller.action.BENCHMARK_OPERATION:
+        20c772c com.example.cv_builder_pro/androidx.profileinstaller.ProfileInstallReceiver filter b5fda18
+          Action: "androidx.profileinstaller.action.BENCHMARK_OPERATION"
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.google.android.gms.metadata.MODULE_DEPENDENCIES:
+        2d35c71 com.example.cv_builder_pro/com.google.android.gms.metadata.ModuleDependencies filter a8efa56
+          Action: "com.google.android.gms.metadata.MODULE_DEPENDENCIES"
+
+Domain verification status:
+
+Permissions:
+  Permission [com.example.cv_builder_pro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION] (990c789):
+    sourcePackage=com.example.cv_builder_pro
+    uid=11969 gids=[] type=0 prot=signature
+    perm=PermissionInfo{9010433 com.example.cv_builder_pro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION}
+
+Registered ContentProviders:
+  com.example.cv_builder_pro/androidx.startup.InitializationProvider:
+    Provider{72883f0 com.example.cv_builder_pro/androidx.startup.InitializationProvider}
+  com.example.cv_builder_pro/dev.fluttercommunity.plus.share.ShareFileProvider:
+    Provider{137d69 com.example.cv_builder_pro/dev.fluttercommunity.plus.share.ShareFileProvider}
+  com.example.cv_builder_pro/io.flutter.plugins.imagepicker.ImagePickerFileProvider:
+    Provider{b893ee com.example.cv_builder_pro/io.flutter.plugins.imagepicker.ImagePickerFileProvider}
+  com.example.cv_builder_pro/net.nfet.flutter.printing.PrintFileProvider:
+    Provider{3bdb08f com.example.cv_builder_pro/net.nfet.flutter.printing.PrintFileProvider}
+
+ContentProvider Authorities:
+  [com.example.cv_builder_pro.flutter.image_provider]:
+    Provider{b893ee com.example.cv_builder_pro/io.flutter.plugins.imagepicker.ImagePickerFileProvider}
+      applicationInfo=ApplicationInfo{c66e38e com.example.cv_builder_pro}
+  [com.example.cv_builder_pro.flutter.share_provider]:
+    Provider{137d69 com.example.cv_builder_pro/dev.fluttercommunity.plus.share.ShareFileProvider}
+      applicationInfo=ApplicationInfo{ef857af com.example.cv_builder_pro}
+  [com.example.cv_builder_pro.flutter.printing]:
+    Provider{3bdb08f com.example.cv_builder_pro/net.nfet.flutter.printing.PrintFileProvider}
+      applicationInfo=ApplicationInfo{aced7bc com.example.cv_builder_pro}
+  [com.example.cv_builder_pro.androidx-startup]:
+    Provider{72883f0 com.example.cv_builder_pro/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{7355345 com.example.cv_builder_pro}
+
+Key Set Manager:
+  [com.example.cv_builder_pro]
+      Signing KeySets: 1194
+
+Packages:
+  Package [com.example.cv_builder_pro] (a74e108):
+    userId=11969
+    pkg=Package{a3a6d73 com.example.cv_builder_pro}
+    codePath=/data/app/~~jT3y5w-aaUReWcGT72kG8g==/com.example.cv_builder_pro-PIhPLeBh8lMH5qshhd6v3A==
+    resourcePath=/data/app/~~jT3y5w-aaUReWcGT72kG8g==/com.example.cv_builder_pro-PIhPLeBh8lMH5qshhd6v3A==
+    legacyNativeLibraryDir=/data/app/~~jT3y5w-aaUReWcGT72kG8g==/com.example.cv_builder_pro-PIhPLeBh8lMH5qshhd6v3A==/lib
+    extractNativeLibs=false
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    cpuAbiOverride=null
+    versionCode=1 minSdk=24 targetSdk=36
+    minExtensionVersions=[]
+    versionName=1.0.0
+    usesNonSdkApi=false
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=PackageImpl{a3a6d73 com.example.cv_builder_pro}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
+    forceQueryable=false
+    queriesPackages=[]
+    queriesIntents=[Intent { act=android.intent.action.PROCESS_TEXT dat=content://*/* typ=text/plain }, Intent { act=android.intent.action.GET_CONTENT dat=content://*/* typ=*/* }]
+    dataDir=/data/user/0/com.example.cv_builder_pro
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    usesOptionalLibraries:
+      androidx.window.extensions
+      androidx.window.sidecar
+    timeStamp=2026-10-31 02:09:43
+    firstInstallTime=2026-10-31 02:09:43
+    lastUpdateTime=2026-10-31 02:09:43
+    signatures=PackageSignatures{48470a1 version:2, signatures:[409bc7ad], past signatures:[]}
+    installPermissionsFixed=true
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    declared permissions:
+      com.example.cv_builder_pro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: prot=signature, INSTALLED
+    requested permissions:
+      com.example.cv_builder_pro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+    install permissions:
+      com.example.cv_builder_pro.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION: granted=true
+    User 0: ceDataInode=1123521 installed=true hidden=false suspended=false distractionFlags=0 stopped=false notLaunched=false enabled=0 instant=false virtual=false
+      overlay paths:
+        /system/system_ext/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk
+      legacy overlay paths:
+        /system/system_ext/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk
+      runtime permissions:
+
+SkippingApks:
+  name : 100Game_PERSONAL_4x4_PF36_2009_2.0.2.apk
+  name : AccessTmobile_TMO.apk
+  name : Adalyst_ZTA.apk
+  name : AdaptClient.apk
+  name : AmazonMDIP_CAN.apk
+  name : AmazonMDIP_USA.apk
+  name : AmazonShopping_CAN.apk
+  name : AmazonShopping_USA.apk
+  name : AmazonVideo_SPR_stub.apk
+  name : Amazon_Shopping.apk
+  name : AppLock.apk
+  name : AppSelect_ATT.apk
+  name : AttIqi_ATT.apk
+  name : AttPersonalCloud_ATT.apk
+  name : AttSmartHelp_ATT.apk
+  name : BellTVWidget.apk
+  name : CHENotification_4.1.apk
+  name : CLAROAPPS_STUB_1_0_0.apk
+  name : CallGuardian_uscc.apk
+  name : CallProtect_ATT.apk
+  name : CallingPlus.apk
+  name : CarrierDeviceManager.apk
+  name : Chameleon2.apk
+  name : ClaroContenedor_Stub.apk
+  name : CnnPanel.apk
+  name : Crane.apk
+  name : Deezer.apk
+  name : DeviceCheckup_TLS.apk
+  name : ESEServiceAgent.apk
+  name : EchoApp_TMO.apk
+  name : Entel_Peru_3.10.4.apk
+  name : FBAppManager_NS.apk
+  name : FBInstagram_stub.apk
+  name : FBInstaller_NS.apk
+  name : FBMessenger_stub.apk
+  name : FBServices.apk
+  name : Facebook_stub.apk
+  name : Fast.apk
+  name : FotaAgent.apk
+  name : GOTConquest_VPL_ATT.apk
+  name : Ignite-uscc.apk
+  name : Ignite_AIO.apk
+  name : JanskySettings.apk
+  name : KidsHome_Installer.apk
+  name : LoginClientUnbranded_sku.apk
+  name : LookoutFull_SPR.apk
+  name : Lookout_ATT.apk
+  name : Lookout_MTR.apk
+  name : Lookout_TMO.apk
+  name : MDIP_phone_1.0.51.apk
+  name : MHSWrapperMTR.apk
+  name : MHSWrapperUSC.apk
+  name : MShopAndroidPhoneApp-16.5.0.100-build16.0.201246.0-patron-release-releasesigned.apk
+  name : MaftPreloadManagerAndroidApp-release-signed-tagged-TelefonicaLATAM.apk
+  name : MaftPreloadManagerAndroidApp-release-signed-tagged-movistarmx.apk
+  name : MdecService.apk
+  name : MetroAppStore_MTR.apk
+  name : MetroZone_MTR.apk
+  name : MeuTIM.apk
+  name : MiTigoBolivia.apk
+  name : MinhaOi.apk
+  name : MobileID.apk
+  name : MobileInstaller.apk
+  name : MobileKey_ATT.apk
+  name : MobileSecurity_ATT.apk
+  name : MovitarPlayTGU_b_stub_v1.1_20180517.apk
+  name : MyATT_ATT.apk
+  name : MyAccount_FMC.apk
+  name : MyAccount_GLW.apk
+  name : MyAccount_VMC.apk
+  name : MyBell.apk
+  name : MyCricket_AIO.apk
+  name : MyMetro_MTR.apk
+  name : MyRogers.apk
+  name : MyTELUS.apk
+  name : NameID_MTR.apk
+  name : NaverV_N.apk
+  name : NetWise_AIO.apk
+  name : OiApps.apk
+  name : OiAppsClube.apk
+  name : OiRecarga.apk
+  name : OiWiFi.apk
+  name : OmaCP.apk
+  name : OmadmSpr.apk
+  name : OmadmSprHm.apk
+  name : OpenCalendar.apk
+  name : PhoneInfo2.apk
+  name : Push_To_Talk_BMC.apk
+  name : RemoteSupport_ATT.apk
+  name : RogersNHL.apk
+  name : SamsungCloudDreamNewIcon.apk
+  name : SamsungConcierge.apk
+  name : SecVVM_dream.apk
+  name : SecVVM_v3.apk
+  name : SelfCareMobile-6.0.3-prod-signed.apk
+  name : SimLock_TMO.apk
+  name : SmartHelp_ATT.apk
+  name : SmartWifi_Stub_ATT.apk
+  name : Smartapps.apk
+  name : SpectrumCM.apk
+  name : SprWfc.apk
+  name : SprintAndroidExtension2.apk
+  name : SprintCallerID.apk
+  name : SprintCallerID02.apk
+  name : SprintHub.apk
+  name : TIMBackup.apk
+  name : TIMmusic.apk
+  name : TelcelContenedorStub.apk
+  name : TigoMoney.apk
+  name : TigoShop.apk
+  name : TigoSports.apk
+  name : TmoVVM.apk
+  name : TmoWfcPrefV2.apk
+  name : TonosDeEspera_v2.0_20180123_omc_tgu_only.apk
+  name : UnifiedVVM.apk
+  name : Upday.apk
+  name : UserManual.apk
+  name : VZWAPNService_sku.apk
+  name : VisionCloudAgent.apk
+  name : VisualVoiceMail_CHA_stub.apk
+  name : VisualVoiceMail_HUX_CCT_stub.apk
+  name : VisualVoiceMail_SE.apk
+  name : VisualVoiceMail_TFN_stub.apk
+  name : VisualVoicemailSpr.apk
+  name : VivoAppsClube.apk
+  name : VivoMaisApps.apk
+  name : Voicemail_AIO.apk
+  name : WatchTV_vpl_ATT.apk
+  name : WfcServiceV2.apk
+  name : WhatsAppDownloader.apk
+  name : YelpPanel.apk
+  name : amazon_shopping_16.4.0.100
+  name : appcloud_oobe_digicel-release_V2.17.3.apk
+  name : apps_brasil_signed_aligned.apk
+  name : bits_2-0-0.apk
+  name : entelPlay_20122016.apk
+  name : instagram-stub.apk
+  name : instagram-stub_27.2.0.apk
+  name : kolbi-3-13-2.apk
+  name : koodo.apk
+  name : messenger-stub.apk
+  name : messenger-stub_27.2.0.apk
+  name : miTelcel_Stub.apk
+  name : mySaskTel.apk
+  name : myflow-release6-1-118.apk
+  name : noticias_aro_52.apk
+  name : samsung_club_bo_4.3.4.apk
+  name : samsung_club_uy_access_release_v1_3.apk
+  name : samsung_concierge_argentina_stub.apk
+  name : samsungclub_py.apk
+  name : samsungclub_py_v3.3.4.apk
+  name : samsungclub_uy.apk
+  name : tickantel_1-6-5.apk
+  name : veramas_1-15-5.apk
+  name : veratv_2-1-3.apk
+  name : videotron_usercentre_plus.apk
+  name : virginmobile_mybenefits.apk
+  name : wssyncmldm.apk
+  name : xtra_t_app.apk
+  name : SearchSelector.apk
+
+Queries:
+  system apps queryable: false
+  queries via package name:
+  queries via intent:
+    [com.samsung.android.bixby.service,com.samsung.android.bixby.agent]:
+      com.example.cv_builder_pro
+    com.verizon.mips.services:
+      com.example.cv_builder_pro
+    [app id 10260 not installed]:
+      com.example.cv_builder_pro
+    com.microsoft.office.outlook:
+      com.example.cv_builder_pro
+    com.whatsapp:
+      com.example.cv_builder_pro
+    com.facebook.katana:
+      com.example.cv_builder_pro
+    com.imo.android.imoim:
+      com.example.cv_builder_pro
+    com.openai.chatgpt:
+      com.example.cv_builder_pro
+    com.instagram.android:
+      com.example.cv_builder_pro
+    com.zhiliaoapp.musically:
+      com.example.cv_builder_pro
+    com.intsig.camscanner:
+      com.example.cv_builder_pro
+    com.video.fun.app:
+      com.example.cv_builder_pro
+    com.camerasideas.instashot:
+      com.example.cv_builder_pro
+    com.facebook.orca:
+      com.example.cv_builder_pro
+    com.voicetranslator.phototranslator.translateapp:
+      com.example.cv_builder_pro
+    com.ioslauncher.launcherapp21:
+      com.example.cv_builder_pro
+    com.languagelearningapp.learnandspeak.android2023:
+      com.example.cv_builder_pro
+    com.filerecovery.datarecovery.restorephoto.deletedvideo:
+      com.example.cv_builder_pro
+    us.zoom.videomeetings:
+      com.example.cv_builder_pro
+    com.hellotalk:
+      com.example.cv_builder_pro
+    com.resumemakerapp.cvmaker:
+      com.example.cv_builder_pro
+    com.lemon.lvoverseas:
+      com.example.cv_builder_pro
+    com.example.cv_builder_pro:
+      com.google.android.documentsui
+      com.microsoft.skydrive
+      com.samsung.android.app.contacts
+      [app id 10151 not installed]
+      com.google.android.googlequicksearchbox
+      com.diotek.sec.lookup.dictionary
+      com.microsoft.office.officehubrow
+      com.google.android.apps.docs
+      com.google.android.apps.photos
+      com.openai.chatgpt
+      com.google.android.apps.translate
+      com.sec.android.app.music
+      com.grandsons.dictboxar
+      com.deepseek.chat
+      com.cxinventor.file.explorer
+      com.microsoft.copilot
+      mega.privacy.android.app
+      com.deepl.mobiletranslator
+  queryable via interaction:
+    User 0:
+      [com.sec.android.app.wlantest,com.samsung.android.knox.attestation,com.samsung.android.biometrics.app.setting,com.samsung.android.aircommandmanager,com.android.networkstack.tethering.inprocess,com.samsung.accessibility,com.samsung.android.app.omcagent,com.samsung.android.forest,com.samsung.android.hdmapp,com.sec.usbsettings,com.samsung.android.bixby.wakeup,com.samsung.android.camerasdkservice,com.samsung.android.cmfa.framework,com.android.wallpaperbackup,com.sem.factoryapp,com.android.localtransport,com.sec.automation,com.android.dynsystem,com.sec.android.sdhms,com.sec.imslogger,com.samsung.android.bbc.bbcagent,com.sec.enterprise.mdm.services.simpin,com.samsung.android.dqagent,com.samsung.aasaservice,com.samsung.android.brightnessbackupservice,com.samsung.android.bio.face.service,com.samsung.android.app.settings.bixby,com.samsung.android.localeoverlaymanager,com.sec.android.app.apex,com.android.keychain,com.sec.android.app.personalization,com.sec.bcservice,com.sec.android.emergencymode.service,com.samsung.carrier.logcollector,com.samsung.android.smartface,com.sec.android.app.applinker,com.samsung.android.tadownloader,com.samsung.gpuwatchapp,com.android.providers.settings,com.samsung.android.knox.pushmanager,com.sec.modem.settings,com.sec.epdg,com.samsung.android.fmm,com.samsung.android.app.dressroom,com.samsung.clipboardsaveservice,com.sec.android.app.desktoplauncher,com.qualcomm.qti.services.secureui,com.samsung.android.smartswitchassistant,com.sec.android.app.dexonpc,com.sec.mhs.smarttethering,com.sec.android.diagmonagent,com.sec.factory,com.android.location.fused,com.samsung.android.cameraxservice,com.samsung.android.svcagent,com.samsung.android.peripheral.framework,com.dsi.ant.server,com.android.settings,com.samsung.android.stickercenter,com.skms.android.agent,com.samsung.cmfa.AuthTouch,com.android.server.telecom,com.sec.android.Cdfs,com.sec.android.app.bluetoothtest,com.sec.android.app.factorykeystring,com.sec.android.app.hwmoduletest,com.sec.android.app.SecSetupWizard,com.samsung.android.sume.nn.service,com.sec.android.app.quicktool,com.samsung.android.themecenter,com.samsung.SMT,com.samsung.android.vtcamerasettings,com.samsung.android.shortcutbackupservice,com.samsung.android.provider.filterprovider,com.sec.app.RilErrorNotifier,com.samsung.InputEventApp,com.android.inputdevices,com.samsung.android.da.daagent,com.sec.sve,android,com.sec.imsservice,com.samsung.vzwapiservice,com.sec.android.app.parser,com.sec.android.smartfpsadjuster,com.samsung.android.lool,com.sec.android.app.servicemodeapp,com.sec.factory.camera,com.sec.android.emergencylauncher]:
+        com.example.cv_builder_pro
+      [com.android.providers.downloads.ui,com.samsung.android.mtp,com.android.providers.media,com.samsung.android.secsoundpicker,com.samsung.android.providers.media,com.android.providers.downloads,com.android.mtp]:
+        com.example.cv_builder_pro
+      com.google.android.documentsui:
+        com.example.cv_builder_pro
+      com.samsung.android.honeyboard:
+        com.example.cv_builder_pro
+      com.example.cv_builder_pro:
+        [com.android.providers.downloads.ui,com.samsung.android.mtp,com.android.providers.media,com.samsung.android.secsoundpicker,com.samsung.android.providers.media,com.android.providers.downloads,com.android.mtp]
+  queryable via uses-library:
+
+Package Changes:
+  Sequence number=12946
+  User 0:
+    seq=0, package=com.google.android.modulemetadata
+    seq=1, package=com.google.android.networkstack
+    seq=2, package=com.google.android.documentsui
+    seq=47, package=work.jobhunt
+    seq=55, package=com.samsung.android.mdagent
+    seq=97, package=com.google.android.apps.labs.language.tailwind
+    seq=720, package=com.sec.android.app.voicenote
+    seq=1002, package=com.rarlab.rar
+    seq=1041, package=com.filerecovery.datarecovery.restorephoto.deletedvideo
+    seq=1211, package=com.samsung.android.scloud
+    seq=1213, package=com.google.android.contactkeys
+    seq=1223, package=com.google.ar.core
+    seq=1328, package=com.google.android.apps.carrier.carrierwifi
+    seq=1456, package=com.cxinventor.file.explorer
+    seq=2507, package=com.samsung.android.oneconnect
+    seq=2561, package=com.sec.android.app.shealth
+    seq=2837, package=com.ahd.jaib
+    seq=2976, package=com.camerasideas.instashot
+    seq=2977, package=com.moh.nusukapp
+    seq=2979, package=com.poe.android
+    seq=2981, package=com.estudyme.toefl
+    seq=2983, package=com.ertiqasoft.yemen_chatt
+    seq=2984, package=com.google.android.apps.maps
+    seq=2985, package=com.palcoder.ringtonecutterandaudiojoiner
+    seq=2989, package=com.codibrain.codex
+    seq=2990, package=com.milinix.toeflspeaking
+    seq=2991, package=com.milinix.toeflwriting
+    seq=2993, package=com.intsig.camscanner
+    seq=2996, package=com.chatgpt.gemini.copilot
+    seq=2997, package=org.chromium.webapk.a4ee2a31f92f31360_v2
+    seq=3286, package=com.pdf.editor.viewer.pdfreader.pdfviewer
+    seq=3331, package=com.microsoft.office.officehubrow
+    seq=3592, package=eu.nexomedia.mhtmhtmlviewer
+    seq=3593, package=com.google.android.apps.bard
+    seq=3594, package=com.saudicalendars.calendar_app
+    seq=3596, package=com.lemon.lvoverseas
+    seq=5697, package=com.google.android.gm
+    seq=5719, package=com.google.android.apps.translate
+    seq=5720, package=org.telegram.messenger
+    seq=5728, package=ertiqa.soft.ertiqasoftPay
+    seq=5735, package=com.whatsapp
+    seq=5747, package=ertiqa.soft.almaghbaritelecom
+    seq=5752, package=com.yemen.numberphoneplus
+    seq=5812, package=com.sec.android.app.sbrowser
+    seq=5825, package=com.netflix.mediaclient
+    seq=6227, package=com.mojoegames.sentencemaster
+    seq=6319, package=x.kelynle.studio.x400_Must_Have_Words_for_the_TOEFL
+    seq=6493, package=com.google.android.googlequicksearchbox
+    seq=6513, package=com.google.android.gms
+    seq=6514, package=com.google.android.youtube
+    seq=6515, package=com.canva.editor
+    seq=6524, package=com.deepseek.chat
+    seq=6531, package=mega.privacy.android.app
+    seq=6532, package=com.magoosh.prep.toefl
+    seq=6564, package=com.twitter.android
+    seq=6602, package=com.google.android.apps.messaging
+    seq=6684, package=com.zhiliaoapp.musically
+    seq=6916, package=com.facebook.katana
+    seq=6925, package=com.google.android.projection.gearhead
+    seq=7020, package=ertiqa.soft.absherNew
+    seq=7022, package=com.moath.ruqyahshareia
+    seq=7440, package=ertiqa.soft.amsalebPayment
+    seq=7449, package=ertiqa.soft.burhanTelecome
+    seq=7531, package=com.hany.subcribe
+    seq=7723, package=com.openai.chatgpt
+    seq=7725, package=com.google.android.tts
+    seq=7751, package=com.surahapp
+    seq=7803, package=ertiqa.soft.ertiqasoftPayForLocal
+    seq=7805, package=com.samsung.android.ipsgeofence
+    seq=12309, package=com.samsung.android.sm.policy
+    seq=12330, package=com.mxtech.videoplayer.ad
+    seq=12400, package=com.android.vending
+    seq=12401, package=com.facebook.orca
+    seq=12456, package=com.android.bluetooth
+    seq=12489, package=com.pixsterstudio.captions
+    seq=12494, package=com.android.chrome
+    seq=12495, package=com.google.android.apps.tachyon
+    seq=12511, package=com.duolingo
+    seq=12512, package=com.linkedin.android
+    seq=12523, package=com.instagram.barcelona
+    seq=12524, package=ai.mainfunc.genspark
+    seq=12527, package=com.deepl.mobiletranslator
+    seq=12528, package=com.mobile.bizo.videovoicechanger
+    seq=12581, package=com.instagram.android
+    seq=12720, package=com.samsung.android.forest
+    seq=12739, package=com.samsung.android.aware.service
+    seq=12749, package=com.sec.android.daemonapp
+    seq=12751, package=ertiqa.soft.dardahMobile
+    seq=12780, package=com.samsung.android.samsungpositioning
+    seq=12789, package=com.example.cv_builder_pro
+    seq=12890, package=com.microsoft.skydrive
+    seq=12891, package=com.microsoft.appmanager
+    seq=12945, package=com.sec.unifiedwfc
+
+
+Dexopt state:
+  [com.example.cv_builder_pro]
+    path: /data/app/~~jT3y5w-aaUReWcGT72kG8g==/com.example.cv_builder_pro-PIhPLeBh8lMH5qshhd6v3A==/base.apk
+      arm64: [status=speed-profile] [reason=adcp]
+
+
+HeimdAllFS state:
+  HeimdAllFS does not supported.
+
+
+Compiler stats:
+  [com.example.cv_builder_pro]
+     base.apk - 367
+
+Active install Logging info:
+  []
+    1792024485552: "Ver":"", "Session":"0", 
+
+Historical install Logging info(9/10):
+  []
+    1793401781393: "Ver":"", "Session":"0", "Write":"7", "Commit":"2389", "Stage":"0", "Copy":"20", "Sign":"4", "DexOpt"
+    :"1", 
+Snapshot statistics
+   Unrecorded-hits: 133  Cork-level: 0
+   Summary stats               TotBlds     TotUsed     TotCork     BigBlds    ShortLvd     TotTime     MaxTime
+          0:55         now           0           0           0           0           0           0           0
+          1:55        0:55          42      301490           0           0          15          66           5
+          2:55        1:55          28      226584           0           0           9          55           6
+          3:55        2:55          25      182937           0           0           7          44           5
+          4:55        3:55          51      333834           0           0          16          83           5
+          5:55        4:55          44      326402           0           0          15          80           5
+          6:55        5:55          26      206365           0           0           7          57           5
+          7:55        6:55          50      344740           0           0          18          89           6
+          8:55        7:55          21      136664           0           2           6         109          45
+          9:55        8:55           0           0           0           0           0           0           0
+    3:04:53:59         now       11157   115900195           0         128        3284       22036          72
+   15:22:43:25  3:04:53:59       16482   247823742           0         358        3220       36397         109
+
+   Build times                  <= 1ms      <= 2ms      <= 5ms     <= 10ms     <= 20ms     <= 50ms    <= 100ms     > 100ms
+          0:55         now           0           0           0           0           0           0           0           0
+          1:55        0:55          28           3          11           0           0           0           0           0
+          2:55        1:55          17           2           7           2           0           0           0           0
+          3:55        2:55          17           4           4           0           0           0           0           0
+          4:55        3:55          34           6          11           0           0           0           0           0
+          5:55        4:55          25           4          15           0           0           0           0           0
+          6:55        5:55          12           5           9           0           0           0           0           0
+          7:55        6:55          31           3          15           1           0           0           0           0
+          8:55        7:55          12           2           4           1           0           2           0           0
+          9:55        8:55           0           0           0           0           0           0           0           0
+    3:04:53:59         now        7015        1822        1886         327          46          52           9           0
+   15:22:43:25  3:04:53:59       10445        3021        2280         424         122         176          13           1
+
+   Use counters                   <= 1        <= 2        <= 5       <= 10       <= 20       <= 50      <= 100       > 100
+          0:55         now           0           0           0           0           0           0           0           0
+          1:55        0:55          15           0           0           0           5           1           1          20
+          2:55        1:55           9           0           0           0           2           3           0          14
+          3:55        2:55           7           0           0           0           2           3           0          13
+          4:55        3:55          16           0           0           0           5           3           0          27
+          5:55        4:55          14           0           1           0           3           4           0          22
+          6:55        5:55           6           0           1           0           2           2           3          12
+          7:55        6:55          16           0           2           0           5           2           1          24
+          8:55        7:55           6           0           0           1           0           2           1          11
+          9:55        8:55           0           0           0           0           0           0           0           0
+    3:04:53:59         now        3171          31          82          64        1041         602         450        5716
+   15:22:43:25  3:04:53:59        2909          71         239         246        1249         774         735       10258

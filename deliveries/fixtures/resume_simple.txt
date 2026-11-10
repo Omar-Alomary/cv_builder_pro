@@ -1,0 +1,10 @@
+Name: Demo User
+Email: demo@example.com
+Phone: +966500000000
+Address: Riyadh
+Skills: Flutter, Dart, Teamwork, Communication, Problem-solving
+Website: https://example.com
+Portfolio: https://example.com/portfolio
+https://linkedin.com/in/example
+https://github.com/example
+Developed applications and led a small team.

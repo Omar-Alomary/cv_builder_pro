@@ -1,0 +1,45 @@
+{
+  "batch": "ui_redesign_05",
+  "businessLogicChanged": false,
+  "dependenciesAdded": false,
+  "analysisIssues": 0,
+  "testsPassed": 422,
+  "newTests": 46,
+  "existingTemplatesAndFavoritesTestsPassed": 19,
+  "widths": [
+    320,
+    390,
+    600,
+    1024,
+    1920
+  ],
+  "locales": [
+    "ar",
+    "en"
+  ],
+  "brightness": [
+    "light",
+    "dark"
+  ],
+  "layoutTextScale": 2,
+  "swipeOutcomes": [
+    "confirmed",
+    "cancelled",
+    "save failure"
+  ],
+  "swipeDirections": [
+    "LTR endToStart",
+    "RTL endToStart"
+  ],
+  "nativeDeviceRun": "not repeated in this batch",
+  "previews": [
+    "batch_05_favorites_dark_ar_390.png",
+    "batch_05_favorites_light_en_390.png",
+    "batch_05_templates_dark_ar_390.png",
+    "batch_05_templates_light_en_390.png",
+    "batch_05_favorites_dark_ar_1920.png",
+    "batch_05_favorites_light_en_1920.png",
+    "batch_05_templates_dark_ar_1920.png",
+    "batch_05_templates_light_en_1920.png"
+  ]
+}

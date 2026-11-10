@@ -1,0 +1,92 @@
+[
+  {
+    "name": "00_modern_ar_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "01_modern_ar_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "02_modern_ar_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "03_modern_ar_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "04_modern_ar_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "05_modern_ar_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "06_modern_en_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "07_modern_en_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "08_modern_en_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "09_modern_en_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "10_modern_en_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "11_modern_en_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "12_modern_mixed_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "13_modern_mixed_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "14_modern_mixed_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  }
+]

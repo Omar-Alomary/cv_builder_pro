@@ -1,0 +1,32 @@
+[
+  {
+    "template": "modern_en",
+    "screenshot": "deliveries\\ui_redesign\\english_templates\\device_modern_en.png",
+    "pdf": "deliveries\\ui_redesign\\english_templates\\modern_en.pdf",
+    "asset": "assets/templates/modern_en.png"
+  },
+  {
+    "template": "classic_en",
+    "screenshot": "deliveries\\ui_redesign\\english_templates\\device_classic_en.png",
+    "pdf": "deliveries\\ui_redesign\\english_templates\\classic_en.pdf",
+    "asset": "assets/templates/classic_en.png"
+  },
+  {
+    "template": "business_en",
+    "screenshot": "deliveries\\ui_redesign\\english_templates\\device_business_en.png",
+    "pdf": "deliveries\\ui_redesign\\english_templates\\business_en.pdf",
+    "asset": "assets/templates/business_en.png"
+  },
+  {
+    "template": "technical_en",
+    "screenshot": "deliveries\\ui_redesign\\english_templates\\device_technical_en.png",
+    "pdf": "deliveries\\ui_redesign\\english_templates\\technical_en.pdf",
+    "asset": "assets/templates/technical_en.png"
+  },
+  {
+    "template": "ats_en",
+    "screenshot": "deliveries\\ui_redesign\\english_templates\\device_ats_en.png",
+    "pdf": "deliveries\\ui_redesign\\english_templates\\ats_en.pdf",
+    "asset": "assets/templates/ats_en.png"
+  }
+]

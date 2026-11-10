@@ -1,0 +1,200 @@
+[
+  {
+    "text": "",
+    "content-desc": "الإعدادات",
+    "class": "android.widget.ImageView",
+    "bounds": "[48,109][192,253]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "CV Maker Pro\nمرحباً بك!",
+    "class": "android.view.View",
+    "bounds": "[684,112][1032,250]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "أنشئ سيرة ذاتية جديدة",
+    "class": "android.view.View",
+    "bounds": "[197,400][789,484]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "ابدأ بإنشاء أول سيرة ذاتية احترافية لك.",
+    "class": "android.view.View",
+    "bounds": "[175,508][789,565]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "فحص ATS",
+    "class": "android.widget.Button",
+    "bounds": "[123,613][385,757]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "استيراد",
+    "class": "android.widget.Button",
+    "bounds": "[409,613][671,757]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "ابدأ",
+    "class": "android.widget.Button",
+    "bounds": "[695,613][957,757]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "0\nالمفضلة",
+    "class": "android.widget.Button",
+    "bounds": "[228,856][450,1000]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "10\nالقوالب",
+    "class": "android.widget.Button",
+    "bounds": "[486,856][710,1000]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "0\nالسير الذاتية",
+    "class": "android.widget.Button",
+    "bounds": "[746,856][1008,1000]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "عرض الكل",
+    "class": "android.widget.Button",
+    "bounds": "[72,1048][256,1192]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "السير الذاتية الأخيرة",
+    "class": "android.view.View",
+    "bounds": "[563,1087][960,1153]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "لا توجد سير ذاتية بعد",
+    "class": "android.view.View",
+    "bounds": "[72,1216][1008,1279]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "عرض الكل",
+    "class": "android.widget.Button",
+    "bounds": "[72,1327][256,1471]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "قوالب مميزة",
+    "class": "android.view.View",
+    "bounds": "[689,1366][960,1432]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "معاينة: كلاسيكي\nقالب كلاسيكي\nكلاسيكي",
+    "class": "android.widget.ImageView",
+    "bounds": "[72,1495][212,1896]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "معاينة: عصري\nقالب عصري\nعصري",
+    "class": "android.widget.ImageView",
+    "bounds": "[212,1495][1008,1896]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "استخدم القالب",
+    "class": "android.widget.Button",
+    "bounds": "[272,1837][628,1896]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "الإعدادات\nTab 4 of 4",
+    "class": "android.widget.Button",
+    "bounds": "[0,1896][270,2051]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "المفضلة\nTab 3 of 4",
+    "class": "android.widget.Button",
+    "bounds": "[270,1896][540,2051]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "القوالب\nTab 2 of 4",
+    "class": "android.widget.Button",
+    "bounds": "[540,1896][810,2051]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "الرئيسية\nTab 1 of 4",
+    "class": "android.widget.Button",
+    "bounds": "[810,1896][1080,2051]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  }
+]

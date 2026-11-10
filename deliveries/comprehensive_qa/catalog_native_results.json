@@ -1,0 +1,52 @@
+[
+  {
+    "id": "modern",
+    "imageSheet": true,
+    "use": true
+  },
+  {
+    "id": "classic",
+    "imageSheet": true,
+    "use": true
+  },
+  {
+    "id": "business",
+    "imageSheet": true,
+    "use": true
+  },
+  {
+    "id": "technical",
+    "imageSheet": true,
+    "use": true
+  },
+  {
+    "id": "ats",
+    "imageSheet": true,
+    "use": true
+  },
+  {
+    "id": "modern_en",
+    "imageSheet": true,
+    "use": true
+  },
+  {
+    "id": "classic_en",
+    "imageSheet": true,
+    "use": true
+  },
+  {
+    "id": "business_en",
+    "imageSheet": true,
+    "use": true
+  },
+  {
+    "id": "technical_en",
+    "imageSheet": true,
+    "use": true
+  },
+  {
+    "id": "ats_en",
+    "imageSheet": true,
+    "use": true
+  }
+]

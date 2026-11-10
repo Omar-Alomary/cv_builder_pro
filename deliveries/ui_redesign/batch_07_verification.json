@@ -1,0 +1,49 @@
+{
+  "batch": "ui_redesign_07",
+  "controllerRepositoryModelServicesChanged": false,
+  "dependenciesAdded": false,
+  "presentationReorderingAdded": true,
+  "analysisIssues": 0,
+  "fullSuiteTestsPassed": 472,
+  "newNormalTests": 29,
+  "existingBuilderTestsPassed": 57,
+  "previewOnlyTests": 4,
+  "previewGenerationTestsPassed": 33,
+  "widths": [
+    320,
+    390,
+    600,
+    1024,
+    1920
+  ],
+  "locales": [
+    "ar",
+    "en"
+  ],
+  "brightness": [
+    "light",
+    "dark"
+  ],
+  "layoutTextScale": 2,
+  "reorderPersistenceSections": [
+    "education",
+    "experience",
+    "courses",
+    "certificates",
+    "languages",
+    "projects",
+    "achievements"
+  ],
+  "actualGestureTest": "passed",
+  "nativeDeviceRun": "not repeated in this batch",
+  "previews": [
+    "batch_07_personal_dark_ar_1920.png",
+    "batch_07_personal_dark_ar_390.png",
+    "batch_07_personal_light_en_1920.png",
+    "batch_07_personal_light_en_390.png",
+    "batch_07_skills_dark_ar_1920.png",
+    "batch_07_skills_dark_ar_390.png",
+    "batch_07_skills_light_en_1920.png",
+    "batch_07_skills_light_en_390.png"
+  ]
+}

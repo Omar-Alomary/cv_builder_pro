@@ -1,0 +1,15 @@
+{
+  "batch":"ui_redesign_02",
+  "widgetFiles":10,
+  "businessLogicChanged":false,
+  "dependenciesAdded":false,
+  "testsPassed":309,
+  "newTests":29,
+  "analysisIssues":0,
+  "widths":[320,390,600,1024,1920],
+  "locales":["ar","en"],
+  "brightness":["light","dark"],
+  "layoutTextScale":2,
+  "previews":["batch_02_light_en.png","batch_02_dark_ar.png"],
+  "nativeDeviceRun":"not repeated in this batch"
+}

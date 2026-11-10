@@ -1,0 +1,147 @@
+[
+  {
+    "case": "arabic",
+    "fields": {
+      "education": {
+        "count": 1,
+        "distinct": 1
+      },
+      "experience": {
+        "count": 2,
+        "distinct": 2
+      },
+      "skills": {
+        "count": 27,
+        "distinct": 27
+      },
+      "projects": {
+        "count": 5,
+        "distinct": 5
+      },
+      "certificates": {
+        "count": 7,
+        "distinct": 7
+      },
+      "languages": {
+        "count": 2,
+        "distinct": 2
+      }
+    }
+  },
+  {
+    "case": "english",
+    "fields": {
+      "education": {
+        "count": 1,
+        "distinct": 1
+      },
+      "experience": {
+        "count": 2,
+        "distinct": 2
+      },
+      "skills": {
+        "count": 27,
+        "distinct": 27
+      },
+      "projects": {
+        "count": 5,
+        "distinct": 5
+      },
+      "certificates": {
+        "count": 7,
+        "distinct": 7
+      },
+      "languages": {
+        "count": 2,
+        "distinct": 2
+      }
+    }
+  },
+  {
+    "case": "json",
+    "fields": {
+      "education": {
+        "count": 1,
+        "distinct": 1
+      },
+      "experience": {
+        "count": 2,
+        "distinct": 2
+      },
+      "skills": {
+        "count": 5,
+        "distinct": 5
+      },
+      "projects": {
+        "count": 1,
+        "distinct": 1
+      },
+      "certificates": {
+        "count": 1,
+        "distinct": 1
+      },
+      "languages": {
+        "count": 2,
+        "distinct": 2
+      }
+    }
+  },
+  {
+    "case": "txt",
+    "fields": {
+      "education": {
+        "count": 1,
+        "distinct": 1
+      },
+      "experience": {
+        "count": 2,
+        "distinct": 2
+      },
+      "skills": {
+        "count": 5,
+        "distinct": 5
+      },
+      "projects": {
+        "count": 0,
+        "distinct": 0
+      },
+      "certificates": {
+        "count": 0,
+        "distinct": 0
+      },
+      "languages": {
+        "count": 2,
+        "distinct": 2
+      }
+    }
+  },
+  {
+    "case": "roundtrip",
+    "fields": {
+      "education": {
+        "count": 1,
+        "distinct": 1
+      },
+      "experience": {
+        "count": 2,
+        "distinct": 2
+      },
+      "skills": {
+        "count": 5,
+        "distinct": 5
+      },
+      "projects": {
+        "count": 1,
+        "distinct": 1
+      },
+      "certificates": {
+        "count": 1,
+        "distinct": 1
+      },
+      "languages": {
+        "count": 2,
+        "distinct": 2
+      }
+    }
+  }
+]

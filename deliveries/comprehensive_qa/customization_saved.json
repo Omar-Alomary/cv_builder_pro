@@ -1,0 +1,1238 @@
+{
+  "ack": "1793323169248881300",
+  "route": "/preview",
+  "errors": [],
+  "resumes": [
+    {
+      "id": 1793318359971705,
+      "fullName": "QA Review User 20261030",
+      "email": "qa.review@example.com",
+      "phone": "+966501234567",
+      "address": null,
+      "profilePicture": null,
+      "summary": null,
+      "education": [
+        {
+          "degree": "BSc Computer Science",
+          "institution": "QA University",
+          "year": "2020",
+          "grade": null,
+          "description": null
+        }
+      ],
+      "experience": [
+        {
+          "jobTitle": "Senior Engineer",
+          "company": "QA Software",
+          "startDate": "01/2020",
+          "endDate": null,
+          "isCurrent": true,
+          "description": null
+        }
+      ],
+      "skills": [
+        {
+          "name": "Flutter",
+          "level": 3
+        },
+        {
+          "name": "Dart",
+          "level": 3
+        },
+        {
+          "name": "Communication",
+          "level": 3
+        }
+      ],
+      "courses": [
+        {
+          "name": "Advanced Flutter",
+          "provider": "QA Academy",
+          "year": "2024",
+          "certificateUrl": null
+        }
+      ],
+      "certificates": [
+        {
+          "name": "Cloud Certificate",
+          "organization": "QA Cloud",
+          "year": "2024",
+          "credentialId": null
+        }
+      ],
+      "languages": [
+        {
+          "name": "English",
+          "level": "Fluent"
+        }
+      ],
+      "projects": [
+        {
+          "name": "QA Project",
+          "description": "Developed a reliable Flutter application.",
+          "startDate": "01/2024",
+          "endDate": null,
+          "isCurrent": true,
+          "technologies": [
+            "Flutter, Dart"
+          ]
+        }
+      ],
+      "achievements": [
+        {
+          "name": "QA Award",
+          "description": "Delivered a 20 percent performance improvement.",
+          "date": "07/2024",
+          "organization": "QA Team",
+          "category": "Software"
+        }
+      ],
+      "linkedin": null,
+      "github": null,
+      "website": null,
+      "portfolio": null,
+      "interests": [
+        "Reading"
+      ],
+      "templateId": "ats",
+      "createdAt": "2026-10-30T02:55:09.690314",
+      "updatedAt": "2026-10-30T03:45:28.088380",
+      "isFavorite": false,
+      "customization": null
+    },
+    {
+      "id": 1793321622155902,
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "address": null,
+      "profilePicture": null,
+      "summary": null,
+      "education": [],
+      "experience": [],
+      "skills": [],
+      "courses": [],
+      "certificates": [],
+      "languages": [],
+      "projects": [],
+      "achievements": [],
+      "linkedin": null,
+      "github": null,
+      "website": null,
+      "portfolio": null,
+      "interests": null,
+      "templateId": "modern",
+      "createdAt": "2026-10-30T03:53:42.155119",
+      "updatedAt": "2026-10-30T03:53:42.156219",
+      "isFavorite": false,
+      "customization": null
+    },
+    {
+      "id": 1793321643177142,
+      "fullName": "أحمد محمد العُمري",
+      "email": "ahmed.omari@example.com",
+      "phone": "+966501234567",
+      "address": "الرياض، السعودية",
+      "profilePicture": null,
+      "summary": "Senior Software Engineer\nمهندس برمجيات بخبرة 8+ سنوات في تطوير تطبيقات موثوقة وقابلة للتوسع باستخدام Flutter وPython. قيادة الفرق وتحسين الأداء بنسبة 35%.",
+      "education": [
+        {
+          "degree": "بكالوريوس علوم حاسب",
+          "institution": "جامعة الملك سعود",
+          "year": "2016",
+          "grade": null,
+          "description": "2012–2016"
+        }
+      ],
+      "experience": [
+        {
+          "jobTitle": "Senior Software Engineer",
+          "company": "Google",
+          "startDate": "01/2020",
+          "endDate": null,
+          "isCurrent": true,
+          "description": "Led teams developing reliable applications.\nقيادة فريق هندسي وتحسين الأداء بنسبة 35%."
+        },
+        {
+          "jobTitle": "Software Engineer",
+          "company": "Microsoft",
+          "startDate": "01/2018",
+          "endDate": "12/2020",
+          "isCurrent": false,
+          "description": "Developed cloud services using Python and AWS.\nتطوير خدمات سحابية ومراجعة جودة البرمجيات."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Flutter",
+          "level": 5
+        },
+        {
+          "name": "Dart",
+          "level": 5
+        },
+        {
+          "name": "Python",
+          "level": 5
+        },
+        {
+          "name": "React",
+          "level": 5
+        },
+        {
+          "name": "AWS",
+          "level": 5
+        }
+      ],
+      "courses": [],
+      "certificates": [
+        {
+          "name": "AWS Solutions Architect",
+          "organization": "Amazon Web Services",
+          "year": "2023",
+          "credentialId": null
+        }
+      ],
+      "languages": [
+        {
+          "name": "العربية",
+          "level": "أصلية"
+        },
+        {
+          "name": "English",
+          "level": "Fluent"
+        }
+      ],
+      "projects": [
+        {
+          "name": "منصة إدارة المشاريع | Project Hub",
+          "description": "تطبيق متجاوب لإدارة المشاريع ومتابعة فرق العمل.",
+          "startDate": "01/2024",
+          "endDate": "12/2024",
+          "isCurrent": false,
+          "technologies": [
+            "Flutter",
+            "AWS"
+          ]
+        }
+      ],
+      "achievements": [
+        {
+          "name": "Engineering Excellence Award",
+          "description": "جائزة التميز الهندسي وتحسين تجربة المستخدم.",
+          "date": "2024",
+          "organization": null,
+          "category": null
+        }
+      ],
+      "linkedin": null,
+      "github": null,
+      "website": null,
+      "portfolio": null,
+      "interests": [
+        "القراءة",
+        "Open-source software"
+      ],
+      "templateId": "modern_en",
+      "createdAt": "2026-10-30T03:54:03.148881",
+      "updatedAt": "2026-10-30T03:54:03.177148",
+      "isFavorite": false,
+      "customization": {
+        "fontFamily": "Poppins",
+        "fontSize": 10.0,
+        "verificationCase": "modern_en"
+      }
+    },
+    {
+      "id": 1793322829898858,
+      "fullName": "عمر العمري",
+      "email": "omar.alomary129@gmail.com",
+      "phone": "+967779218017",
+      "address": "صنعاء، اليمن ( السكن )",
+      "profilePicture": null,
+      "summary": "مهندس برمجيات | مطوّر Flutter\nمهندس برمجيات بخبرة تزيد على 4 سنوات في تطوير البرمجيات، منها أكثر من 3 سنوات في بناء تطبيقات متعددة المنصات\nباستخدام Flutter و Dart. طوّرت تطبيقات للشحن وسداد الفواتير والرسائل النصية، وربطتها بواجهات REST API ، مع خبرة في النشر\nعلى Android و iOS والويب . أمتلك خبرة في دورة حياة تطوير البرمجيات ( SDLC ) ، من تحليل المتطلبات والتصميم إلى التنفيذ\nواختبار الأنظمة والنشر، إضافةً إلى التدريس الأكاديمي والإشراف على مشاريع التخرج .\nمستعد للانتقال للعمل في المملكة العربية السعودية .",
+      "education": [
+        {
+          "degree": "بكالوريوس هندسة البرمجيات",
+          "institution": "جامعة العلوم والتكنولوجيا",
+          "year": "2023",
+          "grade": null,
+          "description": null
+        }
+      ],
+      "experience": [
+        {
+          "jobTitle": "مطوّر برمجيات وتطبيقات جوّال",
+          "company": "الارتقاء سوفت للأنظمة والبرمجيات - اليمن، صنعاء",
+          "startDate": "03/2023",
+          "endDate": null,
+          "isCurrent": true,
+          "description": "طوّرت تطبيقَي جوّال متعددي المنصات باستخدام Flutter و Dart: تطبيقًا للشحن وسداد الفواتير، وتطبيقًا للرسائل النصية .\nقدت تطوير تطبيق الشحن وسداد الفواتير، وربطت واجهات REST API لتنفيذ معاملات آمنة وتحديث الأرصدة لحظيًا .\nبنيت الموقع الإلكتروني للشركة وتولّيت صيانته باستخدام HTML و CSS و JavaScript.\nشاركت في تطوير مشاريع ويب باستخدام ASP.NET Core و SQL Server ، وصمّمت قواعد بيانات علائقية .\nعملت ضمن فرق Agile/Scrum ، واستخدمت YouTrack لإدارة المهام وتخطيط دورات العمل ومتابعة التقدم ."
+        },
+        {
+          "jobTitle": "مهندس برمجيات",
+          "company": "جامعة العلوم والتكنولوجيا - صنعاء",
+          "startDate": "09/2022",
+          "endDate": "12/2024",
+          "isCurrent": false,
+          "description": "طوّرت نظامًا لجدولة المقررات الدراسية باستخدام خوارزميات جدولة قائمة على الذكاء الاصطناعي و PostgreSQL و ASP.NET\nCore.\nأجريت اختبارات النظام وصحّحت الأخطاء وحسّنت الأداء .\nأشرفت على عدة مشاريع تخرج ودرّست مقررات هندسة البرمجيات لمدة عامين ."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Flutter",
+          "level": 3
+        },
+        {
+          "name": "Dart",
+          "level": 3
+        },
+        {
+          "name": "التطوير متعدد المنصات",
+          "level": 3
+        },
+        {
+          "name": "إدارة الحالة ( State Management )",
+          "level": 3
+        },
+        {
+          "name": "تنفيذ واجهات المستخدم ( UI )",
+          "level": 3
+        },
+        {
+          "name": "Android",
+          "level": 3
+        },
+        {
+          "name": "iOS",
+          "level": 3
+        },
+        {
+          "name": "الويب",
+          "level": 3
+        },
+        {
+          "name": "تكامل REST API",
+          "level": 3
+        },
+        {
+          "name": "Firebase Authentication",
+          "level": 3
+        },
+        {
+          "name": "المراسلة اللحظية",
+          "level": 3
+        },
+        {
+          "name": "ASP.NET Core",
+          "level": 3
+        },
+        {
+          "name": "C#",
+          "level": 3
+        },
+        {
+          "name": "SQL Server",
+          "level": 3
+        },
+        {
+          "name": "PostgreSQL",
+          "level": 3
+        },
+        {
+          "name": "تصميم قواعد البيانات العلائقية",
+          "level": 3
+        },
+        {
+          "name": "SDLC",
+          "level": 3
+        },
+        {
+          "name": "تحليل المتطلبات",
+          "level": 3
+        },
+        {
+          "name": "اختبار الأنظمة",
+          "level": 3
+        },
+        {
+          "name": "تصحيح الأخطاء",
+          "level": 3
+        },
+        {
+          "name": "تحسين الأداء",
+          "level": 3
+        },
+        {
+          "name": "حل المشكلات",
+          "level": 3
+        },
+        {
+          "name": "Git",
+          "level": 3
+        },
+        {
+          "name": "Postman",
+          "level": 3
+        },
+        {
+          "name": "YouTrack",
+          "level": 3
+        },
+        {
+          "name": "Agile",
+          "level": 3
+        },
+        {
+          "name": "Scrum",
+          "level": 3
+        }
+      ],
+      "courses": [],
+      "certificates": [
+        {
+          "name": "اختبار TOEFL iBT",
+          "organization": "ETS",
+          "year": "2026",
+          "credentialId": null
+        },
+        {
+          "name": "دبلوم اللغة الإنجليزية",
+          "organization": "معهد Exceleta",
+          "year": "2025",
+          "credentialId": null
+        },
+        {
+          "name": "أساسيات Linux — NDG Linux Essentials",
+          "organization": "أكاديمية سيسكو للشبكات",
+          "year": "2024",
+          "credentialId": null
+        },
+        {
+          "name": "تدريب عملي في تطوير البرمجيات",
+          "organization": "الارتقاء سوفت",
+          "year": "2022",
+          "credentialId": null
+        },
+        {
+          "name": "الرخصة الدولية لقيادة الحاسوب ( ICDL )",
+          "organization": "جامعة العلوم والتكنولوجيا",
+          "year": "2022",
+          "credentialId": null
+        },
+        {
+          "name": "CCNAv7: مقدمة في الشبكات",
+          "organization": "أكاديمية سيسكو للشبكات",
+          "year": "2021",
+          "credentialId": null
+        },
+        {
+          "name": "المهارات الشخصية : التواصل والتفكير النقدي والعمل الجماعي",
+          "organization": "جامعة العلوم والتكنولوجيا",
+          "year": "2021",
+          "credentialId": null
+        }
+      ],
+      "languages": [
+        {
+          "name": "العربية",
+          "level": "Native"
+        },
+        {
+          "name": "الإنجليزية",
+          "level": "إجادة مهنية للعمل ( حاصل على شهادة TOEFL iBT )"
+        }
+      ],
+      "projects": [
+        {
+          "name": "تطبيق إنشاء السيرة الذاتية",
+          "description": "طوّرت تطبيق جوّال لإنشاء سير ذاتية مصممة لأنظمة تتبع المتقدمين ( ATS ) ، مع قوالب متعددة ومعاينة مباشرة وتصدير بصيغة\nPDF.",
+          "startDate": "09/2026",
+          "endDate": null,
+          "isCurrent": false,
+          "technologies": [
+            "Flutter",
+            "Dart"
+          ]
+        },
+        {
+          "name": "تطبيق الشحن وسداد الفواتير",
+          "description": "طوّرت واجهة التطبيق ضمن فريق من 3 أشخاص، وربطت REST API بالخدمات الخلفية لتنفيذ معاملات آمنة وتحديث الأرصدة\nلحظيًا .\nنفّذت تقارير مالية فورية وتسجيل دخول بالقياسات الحيوية ووضعين فاتحًا وداكنًا ودعمًا للغتين العربية والإنجليزية .\nتعاونت مع مطوّري الخدمات الخلفية باستخدام ASP.NET Core ولوحة التحكم باستخدام React ، ونشرت التطبيق على Android\nو iOS والويب .",
+          "startDate": "01/2025",
+          "endDate": null,
+          "isCurrent": false,
+          "technologies": [
+            "Flutter",
+            "Dart",
+            "REST API"
+          ]
+        },
+        {
+          "name": "تطبيق الرسائل النصية",
+          "description": "بنيت التطبيق ضمن فريق من شخصين، وربطت واجهات REST API لإرسال الرسائل لحظيًا وتتبع حالتها، بالتعاون مع مطوّر\nالخدمات الخلفية باستخدام ASP.NET Core.",
+          "startDate": "05/2024",
+          "endDate": "07/2024",
+          "isCurrent": false,
+          "technologies": [
+            "Flutter",
+            "Dart",
+            "REST API"
+          ]
+        },
+        {
+          "name": "الموقع الإلكتروني للشركة",
+          "description": "صمّمت موقع الشركة وطوّرته بتصميم متجاوب، ومكوّنات حديثة لواجهة المستخدم والتنقل والعناصر التفاعلية .\nالموقع : https://ertiqasoft.net",
+          "startDate": "01/2024",
+          "endDate": "03/2024",
+          "isCurrent": false,
+          "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ]
+        },
+        {
+          "name": "تطبيق دردشة ( مشروع تعلّمي )",
+          "description": "بنيت تطبيق دردشة جماعية لحظية باستخدام Firebase Authentication ، مع دعم تعدد المستخدمين والتسليم الفوري للرسائل .\nGitHub: https://github.com/Omar-Alomary/Chat-App",
+          "startDate": "12/2022",
+          "endDate": "02/2023",
+          "isCurrent": false,
+          "technologies": [
+            "Flutter",
+            "Dart",
+            "Firebase"
+          ]
+        }
+      ],
+      "achievements": [],
+      "linkedin": "https://www.linkedin.com/in/omar-al-omari-821b62359",
+      "github": "https://github.com/Omar-Alomary",
+      "website": null,
+      "portfolio": null,
+      "interests": null,
+      "templateId": "modern",
+      "createdAt": "2026-10-30T04:13:49.891833",
+      "updatedAt": "2026-10-30T04:13:49.899134",
+      "isFavorite": false,
+      "customization": null
+    },
+    {
+      "id": 1793322874857661,
+      "fullName": "Omar Al-Omari",
+      "email": "omar.alomary129@gmail.com",
+      "phone": "+967779218017",
+      "address": "Sana'a, Yemen (Home)",
+      "profilePicture": null,
+      "summary": "Software Engineer | Flutter Developer\nSoftware Engineer with 4+ years of software development experience, including 3+ years building\ncross-platform applications with Flutter and Dart. Delivered mobile applications for recharge, bill payments,\nand SMS messaging, with REST API integration and deployment to Android, iOS, and web. Experienced across\nthe software development life cycle (SDLC), including requirements analysis, design, implementation, system\ntesting, and deployment, with additional experience in academic teaching and graduation project supervision.\nOpen to relocation to Saudi Arabia (KSA).",
+      "education": [
+        {
+          "degree": "Bachelor’s Degree in Software Engineering",
+          "institution": "University of Science and Technology",
+          "year": "2023",
+          "grade": null,
+          "description": null
+        }
+      ],
+      "experience": [
+        {
+          "jobTitle": "Software and Mobile Application Developer",
+          "company": "Al-Ertiqa Soft for Systems and Software - Yemen, Sana’a",
+          "startDate": "03/2023",
+          "endDate": null,
+          "isCurrent": true,
+          "description": "Developed 2 cross-platform mobile applications using Flutter and Dart: a recharge and bill payment\napplication and an SMS messaging application.\nLed development of the recharge and bill payment application, integrating REST APIs for secure\ntransactions and real-time balance updates.\nBuilt and maintained the company website using HTML, CSS, and JavaScript.\nContributed to ASP.NET Core and SQL Server web projects and designed relational databases.\nCollaborated in Agile/Scrum teams and used YouTrack for task management, sprint planning, and progress\ntracking."
+        },
+        {
+          "jobTitle": "Software Engineer",
+          "company": "University of Science and Technology - Sana’a",
+          "startDate": "09/2022",
+          "endDate": "12/2024",
+          "isCurrent": false,
+          "description": "Developed a course timetabling system using AI-based scheduling algorithms, PostgreSQL, and ASP.NET\nCore.\nPerformed system testing, debugging, and performance tuning.\nSupervised multiple graduation projects and taught software engineering courses for 2 years."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Flutter",
+          "level": 3
+        },
+        {
+          "name": "Dart",
+          "level": 3
+        },
+        {
+          "name": "cross-platform development",
+          "level": 3
+        },
+        {
+          "name": "state management",
+          "level": 3
+        },
+        {
+          "name": "user interface (UI) implementation",
+          "level": 3
+        },
+        {
+          "name": "Android",
+          "level": 3
+        },
+        {
+          "name": "iOS",
+          "level": 3
+        },
+        {
+          "name": "web",
+          "level": 3
+        },
+        {
+          "name": "REST API integration",
+          "level": 3
+        },
+        {
+          "name": "Firebase Authentication",
+          "level": 3
+        },
+        {
+          "name": "real-time messaging",
+          "level": 3
+        },
+        {
+          "name": "ASP.NET Core",
+          "level": 3
+        },
+        {
+          "name": "C#",
+          "level": 3
+        },
+        {
+          "name": "SQL Server",
+          "level": 3
+        },
+        {
+          "name": "PostgreSQL",
+          "level": 3
+        },
+        {
+          "name": "relational database design",
+          "level": 3
+        },
+        {
+          "name": "SDLC",
+          "level": 3
+        },
+        {
+          "name": "requirements analysis",
+          "level": 3
+        },
+        {
+          "name": "system testing",
+          "level": 3
+        },
+        {
+          "name": "debugging",
+          "level": 3
+        },
+        {
+          "name": "performance tuning",
+          "level": 3
+        },
+        {
+          "name": "problem solving",
+          "level": 3
+        },
+        {
+          "name": "Git",
+          "level": 3
+        },
+        {
+          "name": "Postman",
+          "level": 3
+        },
+        {
+          "name": "YouTrack",
+          "level": 3
+        },
+        {
+          "name": "Agile",
+          "level": 3
+        },
+        {
+          "name": "Scrum",
+          "level": 3
+        }
+      ],
+      "courses": [],
+      "certificates": [
+        {
+          "name": "TOEFL iBT",
+          "organization": "ETS",
+          "year": "2026",
+          "credentialId": null
+        },
+        {
+          "name": "English Diploma",
+          "organization": "Exceleta Institute",
+          "year": "2025",
+          "credentialId": null
+        },
+        {
+          "name": "NDG Linux Essentials",
+          "organization": "Cisco Networking Academy",
+          "year": "2024",
+          "credentialId": null
+        },
+        {
+          "name": "Practical Software Development Training",
+          "organization": "Al-Ertiqa Soft",
+          "year": "2022",
+          "credentialId": null
+        },
+        {
+          "name": "ICDL Certificate",
+          "organization": "University of Science and Technology",
+          "year": "2022",
+          "credentialId": null
+        },
+        {
+          "name": "CCNAv7: Introduction to Networks",
+          "organization": "Cisco Networking Academy",
+          "year": "2021",
+          "credentialId": null
+        },
+        {
+          "name": "Soft Skills: Communication, Critical Thinking, Teamwork",
+          "organization": "University of Science and Technology",
+          "year": "2021",
+          "credentialId": null
+        }
+      ],
+      "languages": [
+        {
+          "name": "Arabic",
+          "level": "Native"
+        },
+        {
+          "name": "English",
+          "level": "Professional Working Proficiency (TOEFL iBT certified)"
+        }
+      ],
+      "projects": [
+        {
+          "name": "CV Builder Application",
+          "description": "Developed a mobile application that generates resumes designed for applicant tracking systems (ATS), with\nmultiple templates, live preview, and PDF export.",
+          "startDate": "09/2026",
+          "endDate": null,
+          "isCurrent": false,
+          "technologies": [
+            "Flutter",
+            "Dart"
+          ]
+        },
+        {
+          "name": "Recharge and Bill Payment Application",
+          "description": "Developed the mobile UI in a 3-person development team and connected REST APIs to backend services for\nsecure transactions and real-time balance updates.\nImplemented instant financial reports, biometric login, light and dark themes, and Arabic/English language\nsupport.\nCollaborated with ASP.NET Core backend and React dashboard developers and deployed the application to\nAndroid, iOS, and web.",
+          "startDate": "01/2025",
+          "endDate": null,
+          "isCurrent": false,
+          "technologies": [
+            "Flutter",
+            "Dart",
+            "REST API"
+          ]
+        },
+        {
+          "name": "SMS Application",
+          "description": "Built the mobile application in a 2-person team and integrated REST APIs for real-time message delivery and\nstatus tracking, in collaboration with an ASP.NET Core backend developer.",
+          "startDate": "05/2024",
+          "endDate": "07/2024",
+          "isCurrent": false,
+          "technologies": [
+            "Flutter",
+            "Dart",
+            "REST API"
+          ]
+        },
+        {
+          "name": "Company Website",
+          "description": "Designed and developed a responsive company website with modern UI components, navigation, and\ninteractive elements.\nWebsite: https://ertiqasoft.net",
+          "startDate": "01/2024",
+          "endDate": "03/2024",
+          "isCurrent": false,
+          "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ]
+        },
+        {
+          "name": "Chat Application (Learning Project)",
+          "description": "Built a real-time group chat application with Firebase Authentication, multi-user messaging, and instant\nmessage delivery.\nGitHub: https://github.com/Omar-Alomary/Chat-App",
+          "startDate": "12/2022",
+          "endDate": "02/2023",
+          "isCurrent": false,
+          "technologies": [
+            "Flutter",
+            "Dart",
+            "Firebase"
+          ]
+        }
+      ],
+      "achievements": [],
+      "linkedin": "https://www.linkedin.com/in/omar-al-omari-821b62359",
+      "github": "https://github.com/Omar-Alomary",
+      "website": "https://ertiqasoft.net",
+      "portfolio": null,
+      "interests": null,
+      "templateId": "modern",
+      "createdAt": "2026-10-30T04:14:34.854559",
+      "updatedAt": "2026-10-30T04:14:34.857673",
+      "isFavorite": false,
+      "customization": null
+    },
+    {
+      "id": 1793322918873917,
+      "fullName": "أحمد محمد العُمري",
+      "email": "ahmed.omari@example.com",
+      "phone": "+966501234567",
+      "address": "الرياض، السعودية",
+      "profilePicture": null,
+      "summary": "Senior Software Engineer\nمهندس برمجيات بخبرة 8+ سنوات في تطوير تطبيقات موثوقة وقابلة للتوسع باستخدام Flutter وPython. قيادة الفرق وتحسين الأداء بنسبة 35%.",
+      "education": [
+        {
+          "degree": "بكالوريوس علوم حاسب",
+          "institution": "جامعة الملك سعود",
+          "year": "2016",
+          "grade": null,
+          "description": "2012–2016"
+        }
+      ],
+      "experience": [
+        {
+          "jobTitle": "Senior Software Engineer",
+          "company": "Google",
+          "startDate": "01/2020",
+          "endDate": null,
+          "isCurrent": true,
+          "description": "Led teams developing reliable applications.\nقيادة فريق هندسي وتحسين الأداء بنسبة 35%."
+        },
+        {
+          "jobTitle": "Software Engineer",
+          "company": "Microsoft",
+          "startDate": "01/2018",
+          "endDate": "12/2020",
+          "isCurrent": false,
+          "description": "Developed cloud services using Python and AWS.\nتطوير خدمات سحابية ومراجعة جودة البرمجيات."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Flutter",
+          "level": 5
+        },
+        {
+          "name": "Dart",
+          "level": 5
+        },
+        {
+          "name": "Python",
+          "level": 5
+        },
+        {
+          "name": "React",
+          "level": 5
+        },
+        {
+          "name": "AWS",
+          "level": 5
+        }
+      ],
+      "courses": [],
+      "certificates": [
+        {
+          "name": "AWS Solutions Architect",
+          "organization": "Amazon Web Services",
+          "year": "2023",
+          "credentialId": null
+        }
+      ],
+      "languages": [
+        {
+          "name": "العربية",
+          "level": "أصلية"
+        },
+        {
+          "name": "English",
+          "level": "Fluent"
+        }
+      ],
+      "projects": [
+        {
+          "name": "منصة إدارة المشاريع | Project Hub",
+          "description": "تطبيق متجاوب لإدارة المشاريع ومتابعة فرق العمل.",
+          "startDate": "01/2024",
+          "endDate": "12/2024",
+          "isCurrent": false,
+          "technologies": [
+            "Flutter",
+            "AWS"
+          ]
+        }
+      ],
+      "achievements": [
+        {
+          "name": "Engineering Excellence Award",
+          "description": "جائزة التميز الهندسي وتحسين تجربة المستخدم.",
+          "date": "2024",
+          "organization": null,
+          "category": null
+        }
+      ],
+      "linkedin": null,
+      "github": null,
+      "website": null,
+      "portfolio": null,
+      "interests": [
+        "القراءة",
+        "Open-source software"
+      ],
+      "templateId": "modern",
+      "createdAt": "2026-10-30T04:15:18.870858",
+      "updatedAt": "2026-10-30T04:15:18.873929",
+      "isFavorite": false,
+      "customization": {
+        "fontFamily": "Cairo",
+        "fontSize": 10.0
+      }
+    },
+    {
+      "id": 1793323057154891,
+      "fullName": "أحمد محمد العُمري",
+      "email": "ahmed.omari@example.com",
+      "phone": "+966501234567",
+      "address": "الرياض، السعودية",
+      "profilePicture": null,
+      "summary": "Senior Software Engineer\nمهندس برمجيات بخبرة 8+ سنوات في تطوير التطبيقات.",
+      "education": [
+        {
+          "degree": "بكالوريوس علوم حاسب",
+          "institution": "جامعة الملك سعود",
+          "year": "2016",
+          "grade": null,
+          "description": null
+        }
+      ],
+      "experience": [
+        {
+          "jobTitle": "Senior Software Engineer",
+          "company": "Google",
+          "startDate": "2020",
+          "endDate": null,
+          "isCurrent": true,
+          "description": "Led teams developing Flutter applications."
+        },
+        {
+          "jobTitle": "Software Engineer",
+          "company": "Microsoft",
+          "startDate": "2018",
+          "endDate": "2020",
+          "isCurrent": false,
+          "description": "Developed cloud services."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Flutter",
+          "level": 3
+        },
+        {
+          "name": "Dart",
+          "level": 3
+        },
+        {
+          "name": "Python",
+          "level": 3
+        },
+        {
+          "name": "React",
+          "level": 3
+        },
+        {
+          "name": "AWS",
+          "level": 3
+        }
+      ],
+      "courses": [],
+      "certificates": [],
+      "languages": [
+        {
+          "name": "Arabic",
+          "level": "Native"
+        },
+        {
+          "name": "English",
+          "level": "Fluent"
+        }
+      ],
+      "projects": [],
+      "achievements": [],
+      "linkedin": null,
+      "github": null,
+      "website": null,
+      "portfolio": null,
+      "interests": [
+        "القراءة",
+        "Open source"
+      ],
+      "templateId": "modern",
+      "createdAt": "2026-10-30T04:17:37.147357",
+      "updatedAt": "2026-10-30T04:17:37.154906",
+      "isFavorite": false,
+      "customization": null
+    },
+    {
+      "id": 1793323707068565,
+      "fullName": "QA Export 20261030",
+      "email": "ahmed.omari@example.com",
+      "phone": "+966501234567",
+      "address": "الرياض، السعودية",
+      "profilePicture": null,
+      "summary": "Senior Software Engineer\nمهندس برمجيات بخبرة 8+ سنوات في تطوير تطبيقات موثوقة وقابلة للتوسع باستخدام Flutter وPython. قيادة الفرق وتحسين الأداء بنسبة 35%.",
+      "education": [
+        {
+          "degree": "بكالوريوس علوم حاسب",
+          "institution": "جامعة الملك سعود",
+          "year": "2016",
+          "grade": null,
+          "description": "2012–2016"
+        }
+      ],
+      "experience": [
+        {
+          "jobTitle": "Senior Software Engineer",
+          "company": "Google",
+          "startDate": "01/2020",
+          "endDate": null,
+          "isCurrent": true,
+          "description": "Led teams developing reliable applications.\nقيادة فريق هندسي وتحسين الأداء بنسبة 35%."
+        },
+        {
+          "jobTitle": "Software Engineer",
+          "company": "Microsoft",
+          "startDate": "01/2018",
+          "endDate": "12/2020",
+          "isCurrent": false,
+          "description": "Developed cloud services using Python and AWS.\nتطوير خدمات سحابية ومراجعة جودة البرمجيات."
+        }
+      ],
+      "skills": [
+        {
+          "name": "Flutter",
+          "level": 5
+        },
+        {
+          "name": "Dart",
+          "level": 5
+        },
+        {
+          "name": "Python",
+          "level": 5
+        },
+        {
+          "name": "React",
+          "level": 5
+        },
+        {
+          "name": "AWS",
+          "level": 5
+        }
+      ],
+      "courses": [],
+      "certificates": [
+        {
+          "name": "AWS Solutions Architect",
+          "organization": "Amazon Web Services",
+          "year": "2023",
+          "credentialId": null
+        }
+      ],
+      "languages": [
+        {
+          "name": "العربية",
+          "level": "أصلية"
+        },
+        {
+          "name": "English",
+          "level": "Fluent"
+        }
+      ],
+      "projects": [
+        {
+          "name": "منصة إدارة المشاريع | Project Hub",
+          "description": "تطبيق متجاوب لإدارة المشاريع ومتابعة فرق العمل.",
+          "startDate": "01/2024",
+          "endDate": "12/2024",
+          "isCurrent": false,
+          "technologies": [
+            "Flutter",
+            "AWS"
+          ]
+        }
+      ],
+      "achievements": [
+        {
+          "name": "Engineering Excellence Award",
+          "description": "جائزة التميز الهندسي وتحسين تجربة المستخدم.",
+          "date": "2024",
+          "organization": null,
+          "category": null
+        }
+      ],
+      "linkedin": null,
+      "github": null,
+      "website": null,
+      "portfolio": null,
+      "interests": [
+        "القراءة",
+        "Open-source software"
+      ],
+      "templateId": "modern_en",
+      "createdAt": "2026-10-30T04:19:01.971811",
+      "updatedAt": "2026-10-30T04:28:27.068615",
+      "isFavorite": false,
+      "customization": {
+        "fontFamily": "Poppins",
+        "fontSize": 14.0,
+        "verificationCase": "modern_en",
+        "primaryColor": 4279592384,
+        "secondaryColor": 4283723386
+      }
+    }
+  ],
+  "current": {
+    "id": 1793323707068565,
+    "fullName": "QA Export 20261030",
+    "email": "ahmed.omari@example.com",
+    "phone": "+966501234567",
+    "address": "الرياض، السعودية",
+    "profilePicture": null,
+    "summary": "Senior Software Engineer\nمهندس برمجيات بخبرة 8+ سنوات في تطوير تطبيقات موثوقة وقابلة للتوسع باستخدام Flutter وPython. قيادة الفرق وتحسين الأداء بنسبة 35%.",
+    "education": [
+      {
+        "degree": "بكالوريوس علوم حاسب",
+        "institution": "جامعة الملك سعود",
+        "year": "2016",
+        "grade": null,
+        "description": "2012–2016"
+      }
+    ],
+    "experience": [
+      {
+        "jobTitle": "Senior Software Engineer",
+        "company": "Google",
+        "startDate": "01/2020",
+        "endDate": null,
+        "isCurrent": true,
+        "description": "Led teams developing reliable applications.\nقيادة فريق هندسي وتحسين الأداء بنسبة 35%."
+      },
+      {
+        "jobTitle": "Software Engineer",
+        "company": "Microsoft",
+        "startDate": "01/2018",
+        "endDate": "12/2020",
+        "isCurrent": false,
+        "description": "Developed cloud services using Python and AWS.\nتطوير خدمات سحابية ومراجعة جودة البرمجيات."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Flutter",
+        "level": 5
+      },
+      {
+        "name": "Dart",
+        "level": 5
+      },
+      {
+        "name": "Python",
+        "level": 5
+      },
+      {
+        "name": "React",
+        "level": 5
+      },
+      {
+        "name": "AWS",
+        "level": 5
+      }
+    ],
+    "courses": [],
+    "certificates": [
+      {
+        "name": "AWS Solutions Architect",
+        "organization": "Amazon Web Services",
+        "year": "2023",
+        "credentialId": null
+      }
+    ],
+    "languages": [
+      {
+        "name": "العربية",
+        "level": "أصلية"
+      },
+      {
+        "name": "English",
+        "level": "Fluent"
+      }
+    ],
+    "projects": [
+      {
+        "name": "منصة إدارة المشاريع | Project Hub",
+        "description": "تطبيق متجاوب لإدارة المشاريع ومتابعة فرق العمل.",
+        "startDate": "01/2024",
+        "endDate": "12/2024",
+        "isCurrent": false,
+        "technologies": [
+          "Flutter",
+          "AWS"
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "name": "Engineering Excellence Award",
+        "description": "جائزة التميز الهندسي وتحسين تجربة المستخدم.",
+        "date": "2024",
+        "organization": null,
+        "category": null
+      }
+    ],
+    "linkedin": null,
+    "github": null,
+    "website": null,
+    "portfolio": null,
+    "interests": [
+      "القراءة",
+      "Open-source software"
+    ],
+    "templateId": "modern_en",
+    "createdAt": "2026-10-30T04:19:01.971811",
+    "updatedAt": "2026-10-30T04:28:27.068615",
+    "isFavorite": false,
+    "customization": {
+      "fontFamily": "Poppins",
+      "fontSize": 14.0,
+      "verificationCase": "modern_en",
+      "primaryColor": 4279592384,
+      "secondaryColor": 4283723386
+    }
+  },
+  "locale": "en",
+  "profile": "/data/user/0/com.example.cv_builder_pro/app_flutter/profile_1793322722923734.jpg",
+  "dark": true,
+  "metrics": {
+    "physicalWidth": 1080.0,
+    "physicalHeight": 2136.0,
+    "dpr": 3.0,
+    "keyboardBottom": 0.0
+  }
+}

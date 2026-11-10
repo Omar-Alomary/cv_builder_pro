@@ -1,0 +1,273 @@
+{
+  "id": null,
+  "fullName": "Omar Al-Omari",
+  "email": "omar.alomary129@gmail.com",
+  "phone": "+967779218017",
+  "address": "Sana'a, Yemen (Home)",
+  "profilePicture": null,
+  "summary": "Software Engineer | Flutter Developer\nSoftware Engineer with 4+ years of software development experience, including 3+ years building\ncross-platform applications with Flutter and Dart. Delivered mobile applications for recharge, bill payments,\nand SMS messaging, with REST API integration and deployment to Android, iOS, and web. Experienced across\nthe software development life cycle (SDLC), including requirements analysis, design, implementation, system\ntesting, and deployment, with additional experience in academic teaching and graduation project supervision.\nOpen to relocation to Saudi Arabia (KSA).",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Software Engineering",
+      "institution": "University of Science and Technology",
+      "year": "2023",
+      "grade": null,
+      "description": null
+    }
+  ],
+  "experience": [
+    {
+      "jobTitle": "Software and Mobile Application Developer",
+      "company": "Al-Ertiqa Soft for Systems and Software - Yemen, Sana’a",
+      "startDate": "03/2023",
+      "endDate": null,
+      "isCurrent": true,
+      "description": "Developed 2 cross-platform mobile applications using Flutter and Dart: a recharge and bill payment\napplication and an SMS messaging application.\nLed development of the recharge and bill payment application, integrating REST APIs for secure\ntransactions and real-time balance updates.\nBuilt and maintained the company website using HTML, CSS, and JavaScript.\nContributed to ASP.NET Core and SQL Server web projects and designed relational databases.\nCollaborated in Agile/Scrum teams and used YouTrack for task management, sprint planning, and progress\ntracking."
+    },
+    {
+      "jobTitle": "Software Engineer",
+      "company": "University of Science and Technology - Sana’a",
+      "startDate": "09/2022",
+      "endDate": "12/2024",
+      "isCurrent": false,
+      "description": "Developed a course timetabling system using AI-based scheduling algorithms, PostgreSQL, and ASP.NET\nCore.\nPerformed system testing, debugging, and performance tuning.\nSupervised multiple graduation projects and taught software engineering courses for 2 years."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Flutter",
+      "level": 3
+    },
+    {
+      "name": "Dart",
+      "level": 3
+    },
+    {
+      "name": "cross-platform development",
+      "level": 3
+    },
+    {
+      "name": "state management",
+      "level": 3
+    },
+    {
+      "name": "user interface (UI) implementation",
+      "level": 3
+    },
+    {
+      "name": "Android",
+      "level": 3
+    },
+    {
+      "name": "iOS",
+      "level": 3
+    },
+    {
+      "name": "web",
+      "level": 3
+    },
+    {
+      "name": "REST API integration",
+      "level": 3
+    },
+    {
+      "name": "Firebase Authentication",
+      "level": 3
+    },
+    {
+      "name": "real-time messaging",
+      "level": 3
+    },
+    {
+      "name": "ASP.NET Core",
+      "level": 3
+    },
+    {
+      "name": "C#",
+      "level": 3
+    },
+    {
+      "name": "SQL Server",
+      "level": 3
+    },
+    {
+      "name": "PostgreSQL",
+      "level": 3
+    },
+    {
+      "name": "relational database design",
+      "level": 3
+    },
+    {
+      "name": "SDLC",
+      "level": 3
+    },
+    {
+      "name": "requirements analysis",
+      "level": 3
+    },
+    {
+      "name": "system testing",
+      "level": 3
+    },
+    {
+      "name": "debugging",
+      "level": 3
+    },
+    {
+      "name": "performance tuning",
+      "level": 3
+    },
+    {
+      "name": "problem solving",
+      "level": 3
+    },
+    {
+      "name": "Git",
+      "level": 3
+    },
+    {
+      "name": "Postman",
+      "level": 3
+    },
+    {
+      "name": "YouTrack",
+      "level": 3
+    },
+    {
+      "name": "Agile",
+      "level": 3
+    },
+    {
+      "name": "Scrum",
+      "level": 3
+    }
+  ],
+  "courses": [],
+  "certificates": [
+    {
+      "name": "TOEFL iBT",
+      "organization": "ETS",
+      "year": "2026",
+      "credentialId": null
+    },
+    {
+      "name": "English Diploma",
+      "organization": "Exceleta Institute",
+      "year": "2025",
+      "credentialId": null
+    },
+    {
+      "name": "NDG Linux Essentials",
+      "organization": "Cisco Networking Academy",
+      "year": "2024",
+      "credentialId": null
+    },
+    {
+      "name": "Practical Software Development Training",
+      "organization": "Al-Ertiqa Soft",
+      "year": "2022",
+      "credentialId": null
+    },
+    {
+      "name": "ICDL Certificate",
+      "organization": "University of Science and Technology",
+      "year": "2022",
+      "credentialId": null
+    },
+    {
+      "name": "CCNAv7: Introduction to Networks",
+      "organization": "Cisco Networking Academy",
+      "year": "2021",
+      "credentialId": null
+    },
+    {
+      "name": "Soft Skills: Communication, Critical Thinking, Teamwork",
+      "organization": "University of Science and Technology",
+      "year": "2021",
+      "credentialId": null
+    }
+  ],
+  "languages": [
+    {
+      "name": "Arabic",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "Professional Working Proficiency (TOEFL iBT certified)"
+    }
+  ],
+  "projects": [
+    {
+      "name": "CV Builder Application",
+      "description": "Developed a mobile application that generates resumes designed for applicant tracking systems (ATS), with\nmultiple templates, live preview, and PDF export.",
+      "startDate": "09/2026",
+      "endDate": null,
+      "isCurrent": false,
+      "technologies": [
+        "Flutter",
+        "Dart"
+      ]
+    },
+    {
+      "name": "Recharge and Bill Payment Application",
+      "description": "Developed the mobile UI in a 3-person development team and connected REST APIs to backend services for\nsecure transactions and real-time balance updates.\nImplemented instant financial reports, biometric login, light and dark themes, and Arabic/English language\nsupport.\nCollaborated with ASP.NET Core backend and React dashboard developers and deployed the application to\nAndroid, iOS, and web.",
+      "startDate": "01/2025",
+      "endDate": null,
+      "isCurrent": false,
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "REST API"
+      ]
+    },
+    {
+      "name": "SMS Application",
+      "description": "Built the mobile application in a 2-person team and integrated REST APIs for real-time message delivery and\nstatus tracking, in collaboration with an ASP.NET Core backend developer.",
+      "startDate": "05/2024",
+      "endDate": "07/2024",
+      "isCurrent": false,
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "REST API"
+      ]
+    },
+    {
+      "name": "Company Website",
+      "description": "Designed and developed a responsive company website with modern UI components, navigation, and\ninteractive elements.\nWebsite: https://ertiqasoft.net",
+      "startDate": "01/2024",
+      "endDate": "03/2024",
+      "isCurrent": false,
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Chat Application (Learning Project)",
+      "description": "Built a real-time group chat application with Firebase Authentication, multi-user messaging, and instant\nmessage delivery.\nGitHub: https://github.com/Omar-Alomary/Chat-App",
+      "startDate": "12/2022",
+      "endDate": "02/2023",
+      "isCurrent": false,
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ]
+    }
+  ],
+  "achievements": [],
+  "linkedin": "https://www.linkedin.com/in/omar-al-omari-821b62359",
+  "github": "https://github.com/Omar-Alomary",
+  "website": "https://ertiqasoft.net",
+  "portfolio": null,
+  "interests": null,
+  "templateId": "modern",
+  "createdAt": "2026-10-30T04:14:23.606295",
+  "updatedAt": null,
+  "isFavorite": false,
+  "customization": null
+}

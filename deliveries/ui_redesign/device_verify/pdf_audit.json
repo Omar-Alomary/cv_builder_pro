@@ -1,0 +1,104 @@
+[
+  {
+    "case": "ats_ar",
+    "pages": 2,
+    "textWithinPage": true,
+    "fonts": [
+      "Cairo-Regular"
+    ],
+    "images": 0
+  },
+  {
+    "case": "ats_en",
+    "pages": 2,
+    "textWithinPage": true,
+    "fonts": [
+      "Cairo-Regular"
+    ],
+    "images": 0
+  },
+  {
+    "case": "business_ar",
+    "pages": 2,
+    "textWithinPage": true,
+    "fonts": [
+      "Cairo-Bold",
+      "Cairo-Regular"
+    ],
+    "images": 0
+  },
+  {
+    "case": "business_en",
+    "pages": 2,
+    "textWithinPage": true,
+    "fonts": [
+      "Cairo-Bold",
+      "Cairo-Regular",
+      "Poppins-Regular"
+    ],
+    "images": 0
+  },
+  {
+    "case": "classic_ar",
+    "pages": 2,
+    "textWithinPage": true,
+    "fonts": [
+      "Cairo-Bold",
+      "Cairo-Regular"
+    ],
+    "images": 0
+  },
+  {
+    "case": "classic_en",
+    "pages": 2,
+    "textWithinPage": true,
+    "fonts": [
+      "Cairo-Bold",
+      "Cairo-Regular",
+      "Poppins-Regular"
+    ],
+    "images": 0
+  },
+  {
+    "case": "modern_ar",
+    "pages": 2,
+    "textWithinPage": true,
+    "fonts": [
+      "Cairo-Bold",
+      "Cairo-Regular"
+    ],
+    "images": 0
+  },
+  {
+    "case": "modern_en",
+    "pages": 2,
+    "textWithinPage": true,
+    "fonts": [
+      "Cairo-Bold",
+      "Cairo-Regular",
+      "Poppins-Regular"
+    ],
+    "images": 0
+  },
+  {
+    "case": "technical_ar",
+    "pages": 2,
+    "textWithinPage": true,
+    "fonts": [
+      "Cairo-Bold",
+      "Cairo-Regular"
+    ],
+    "images": 0
+  },
+  {
+    "case": "technical_en",
+    "pages": 2,
+    "textWithinPage": true,
+    "fonts": [
+      "Cairo-Bold",
+      "Cairo-Regular",
+      "Poppins-Regular"
+    ],
+    "images": 0
+  }
+]

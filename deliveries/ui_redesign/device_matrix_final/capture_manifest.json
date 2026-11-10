@@ -1,0 +1,812 @@
+[
+  {
+    "index": 0,
+    "template": "modern",
+    "language": "ar",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "00_modern_ar_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 1,
+    "template": "modern",
+    "language": "ar",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "01_modern_ar_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 2,
+    "template": "modern",
+    "language": "ar",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "02_modern_ar_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 3,
+    "template": "modern",
+    "language": "ar",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "03_modern_ar_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 4,
+    "template": "modern",
+    "language": "ar",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "04_modern_ar_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 5,
+    "template": "modern",
+    "language": "ar",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "05_modern_ar_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 6,
+    "template": "modern",
+    "language": "en",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "06_modern_en_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 7,
+    "template": "modern",
+    "language": "en",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "07_modern_en_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 8,
+    "template": "modern",
+    "language": "en",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "08_modern_en_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 9,
+    "template": "modern",
+    "language": "en",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "09_modern_en_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 10,
+    "template": "modern",
+    "language": "en",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "10_modern_en_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 11,
+    "template": "modern",
+    "language": "en",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "11_modern_en_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 12,
+    "template": "modern",
+    "language": "mixed",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "12_modern_mixed_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 13,
+    "template": "modern",
+    "language": "mixed",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "13_modern_mixed_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 14,
+    "template": "modern",
+    "language": "mixed",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "14_modern_mixed_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 15,
+    "template": "modern",
+    "language": "mixed",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "15_modern_mixed_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 16,
+    "template": "modern",
+    "language": "mixed",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "16_modern_mixed_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 17,
+    "template": "modern",
+    "language": "mixed",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "17_modern_mixed_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 18,
+    "template": "classic",
+    "language": "ar",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "18_classic_ar_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 19,
+    "template": "classic",
+    "language": "ar",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "19_classic_ar_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 20,
+    "template": "classic",
+    "language": "ar",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "20_classic_ar_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 21,
+    "template": "classic",
+    "language": "ar",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "21_classic_ar_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 22,
+    "template": "classic",
+    "language": "ar",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "22_classic_ar_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 23,
+    "template": "classic",
+    "language": "ar",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "23_classic_ar_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 24,
+    "template": "classic",
+    "language": "en",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "24_classic_en_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 25,
+    "template": "classic",
+    "language": "en",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "25_classic_en_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 26,
+    "template": "classic",
+    "language": "en",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "26_classic_en_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 27,
+    "template": "classic",
+    "language": "en",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "27_classic_en_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 28,
+    "template": "classic",
+    "language": "en",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "28_classic_en_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 29,
+    "template": "classic",
+    "language": "en",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "29_classic_en_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 30,
+    "template": "classic",
+    "language": "mixed",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "30_classic_mixed_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 31,
+    "template": "classic",
+    "language": "mixed",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "31_classic_mixed_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 32,
+    "template": "classic",
+    "language": "mixed",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "32_classic_mixed_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 33,
+    "template": "classic",
+    "language": "mixed",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "33_classic_mixed_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 34,
+    "template": "classic",
+    "language": "mixed",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "34_classic_mixed_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 35,
+    "template": "classic",
+    "language": "mixed",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "35_classic_mixed_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 36,
+    "template": "business",
+    "language": "ar",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "36_business_ar_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 37,
+    "template": "business",
+    "language": "ar",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "37_business_ar_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 38,
+    "template": "business",
+    "language": "ar",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "38_business_ar_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 39,
+    "template": "business",
+    "language": "ar",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "39_business_ar_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 40,
+    "template": "business",
+    "language": "ar",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "40_business_ar_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 41,
+    "template": "business",
+    "language": "ar",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "41_business_ar_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 42,
+    "template": "business",
+    "language": "en",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "42_business_en_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 43,
+    "template": "business",
+    "language": "en",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "43_business_en_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 44,
+    "template": "business",
+    "language": "en",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "44_business_en_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 45,
+    "template": "business",
+    "language": "en",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "45_business_en_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 46,
+    "template": "business",
+    "language": "en",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "46_business_en_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 47,
+    "template": "business",
+    "language": "en",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "47_business_en_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 48,
+    "template": "business",
+    "language": "mixed",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "48_business_mixed_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 49,
+    "template": "business",
+    "language": "mixed",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "49_business_mixed_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 50,
+    "template": "business",
+    "language": "mixed",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "50_business_mixed_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 51,
+    "template": "business",
+    "language": "mixed",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "51_business_mixed_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 52,
+    "template": "business",
+    "language": "mixed",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "52_business_mixed_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 53,
+    "template": "business",
+    "language": "mixed",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "53_business_mixed_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 54,
+    "template": "technical",
+    "language": "ar",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "54_technical_ar_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 55,
+    "template": "technical",
+    "language": "ar",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "55_technical_ar_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 56,
+    "template": "technical",
+    "language": "ar",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "56_technical_ar_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 57,
+    "template": "technical",
+    "language": "ar",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "57_technical_ar_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 58,
+    "template": "technical",
+    "language": "ar",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "58_technical_ar_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 59,
+    "template": "technical",
+    "language": "ar",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "59_technical_ar_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 60,
+    "template": "technical",
+    "language": "en",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "60_technical_en_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 61,
+    "template": "technical",
+    "language": "en",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "61_technical_en_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 62,
+    "template": "technical",
+    "language": "en",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "62_technical_en_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 63,
+    "template": "technical",
+    "language": "en",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "63_technical_en_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 64,
+    "template": "technical",
+    "language": "en",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "64_technical_en_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 65,
+    "template": "technical",
+    "language": "en",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "65_technical_en_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 66,
+    "template": "technical",
+    "language": "mixed",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "66_technical_mixed_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 67,
+    "template": "technical",
+    "language": "mixed",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "67_technical_mixed_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 68,
+    "template": "technical",
+    "language": "mixed",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "68_technical_mixed_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 69,
+    "template": "technical",
+    "language": "mixed",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "69_technical_mixed_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 70,
+    "template": "technical",
+    "language": "mixed",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "70_technical_mixed_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 71,
+    "template": "technical",
+    "language": "mixed",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "71_technical_mixed_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 72,
+    "template": "ats",
+    "language": "ar",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "72_ats_ar_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 73,
+    "template": "ats",
+    "language": "ar",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "73_ats_ar_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 74,
+    "template": "ats",
+    "language": "ar",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "74_ats_ar_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 75,
+    "template": "ats",
+    "language": "ar",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "75_ats_ar_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 76,
+    "template": "ats",
+    "language": "ar",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "76_ats_ar_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 77,
+    "template": "ats",
+    "language": "ar",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "77_ats_ar_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 78,
+    "template": "ats",
+    "language": "en",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "78_ats_en_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 79,
+    "template": "ats",
+    "language": "en",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "79_ats_en_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 80,
+    "template": "ats",
+    "language": "en",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "80_ats_en_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 81,
+    "template": "ats",
+    "language": "en",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "81_ats_en_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 82,
+    "template": "ats",
+    "language": "en",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "82_ats_en_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 83,
+    "template": "ats",
+    "language": "en",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "83_ats_en_Poppins_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 84,
+    "template": "ats",
+    "language": "mixed",
+    "font": "Cairo",
+    "mode": "light",
+    "name": "84_ats_mixed_Cairo_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 85,
+    "template": "ats",
+    "language": "mixed",
+    "font": "Cairo",
+    "mode": "dark",
+    "name": "85_ats_mixed_Cairo_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 86,
+    "template": "ats",
+    "language": "mixed",
+    "font": "Sukar",
+    "mode": "light",
+    "name": "86_ats_mixed_Sukar_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 87,
+    "template": "ats",
+    "language": "mixed",
+    "font": "Sukar",
+    "mode": "dark",
+    "name": "87_ats_mixed_Sukar_dark",
+    "visual_review": "pending"
+  },
+  {
+    "index": 88,
+    "template": "ats",
+    "language": "mixed",
+    "font": "Poppins",
+    "mode": "light",
+    "name": "88_ats_mixed_Poppins_light",
+    "visual_review": "pending"
+  },
+  {
+    "index": 89,
+    "template": "ats",
+    "language": "mixed",
+    "font": "Poppins",
+    "mode": "dark",
+    "name": "89_ats_mixed_Poppins_dark",
+    "visual_review": "pending"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "modern_en",
+    "pages": 1,
+    "english_text": true,
+    "embedded_fonts": [
+      "Cairo-Bold",
+      "Cairo-Regular"
+    ]
+  },
+  {
+    "id": "classic_en",
+    "pages": 1,
+    "english_text": true,
+    "embedded_fonts": [
+      "Cairo-Bold",
+      "Cairo-Regular"
+    ]
+  },
+  {
+    "id": "business_en",
+    "pages": 1,
+    "english_text": true,
+    "embedded_fonts": [
+      "Cairo-Bold",
+      "Cairo-Regular"
+    ]
+  },
+  {
+    "id": "technical_en",
+    "pages": 2,
+    "english_text": true,
+    "embedded_fonts": [
+      "Cairo-Bold",
+      "Cairo-Regular"
+    ]
+  },
+  {
+    "id": "ats_en",
+    "pages": 1,
+    "english_text": true,
+    "embedded_fonts": [
+      "Cairo-Regular"
+    ]
+  }
+]

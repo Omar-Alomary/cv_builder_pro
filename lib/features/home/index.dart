@@ -1,0 +1,9 @@
+export 'presentation/pages/home_screen.dart';
+export 'presentation/widgets/home_header.dart';
+export 'presentation/widgets/stats_cards.dart';
+export 'presentation/widgets/marquee_header.dart';
+export 'presentation/widgets/template_carousel.dart';
+export 'presentation/widgets/recent_activity_card.dart';
+export 'presentation/widgets/home_quick_actions.dart';
+export 'presentation/widgets/home_primary_action.dart';
+export 'presentation/widgets/home_cta_card.dart';

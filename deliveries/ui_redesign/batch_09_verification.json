@@ -1,0 +1,50 @@
+{
+  "batch": "ui_redesign_09",
+  "businessLogicChanged": false,
+  "dependenciesAdded": false,
+  "analysisIssues": 0,
+  "fullSuiteTestsPassed": 559,
+  "newTests": 41,
+  "existingImportAndEntriesTestsPassed": 47,
+  "widths": [
+    320,
+    390,
+    600,
+    1024,
+    1920
+  ],
+  "locales": [
+    "ar",
+    "en"
+  ],
+  "brightness": [
+    "light",
+    "dark"
+  ],
+  "layoutTextScale": 2,
+  "dialogKeyboardInset": 280,
+  "dialogs": [
+    "education",
+    "experience",
+    "course",
+    "certificate",
+    "language",
+    "project",
+    "achievement"
+  ],
+  "nativeDeviceAndFilePickerRun": "not repeated in this batch; UI services substituted in tests",
+  "previews": [
+    "batch_09_education_dialog_dark_ar_1920.png",
+    "batch_09_education_dialog_dark_ar_390.png",
+    "batch_09_education_dialog_light_en_1920.png",
+    "batch_09_education_dialog_light_en_390.png",
+    "batch_09_import_dark_ar_1920.png",
+    "batch_09_import_dark_ar_390.png",
+    "batch_09_import_light_en_1920.png",
+    "batch_09_import_light_en_390.png",
+    "batch_09_import_preview_dark_ar_1920.png",
+    "batch_09_import_preview_dark_ar_390.png",
+    "batch_09_import_preview_light_en_1920.png",
+    "batch_09_import_preview_light_en_390.png"
+  ]
+}

@@ -1,0 +1,542 @@
+[
+  {
+    "name": "00_modern_ar_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "01_modern_ar_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "02_modern_ar_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "03_modern_ar_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "04_modern_ar_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "05_modern_ar_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "06_modern_en_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "07_modern_en_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "08_modern_en_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "09_modern_en_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "10_modern_en_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "11_modern_en_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "12_modern_mixed_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "13_modern_mixed_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "14_modern_mixed_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "15_modern_mixed_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "16_modern_mixed_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "17_modern_mixed_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "18_classic_ar_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "19_classic_ar_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "20_classic_ar_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "21_classic_ar_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "22_classic_ar_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "23_classic_ar_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "24_classic_en_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "25_classic_en_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "26_classic_en_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "27_classic_en_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "28_classic_en_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "29_classic_en_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "30_classic_mixed_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "31_classic_mixed_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "32_classic_mixed_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "33_classic_mixed_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "34_classic_mixed_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "35_classic_mixed_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "36_business_ar_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "37_business_ar_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "38_business_ar_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "39_business_ar_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "40_business_ar_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "41_business_ar_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "42_business_en_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "43_business_en_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "44_business_en_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "45_business_en_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "46_business_en_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "47_business_en_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "48_business_mixed_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "49_business_mixed_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "50_business_mixed_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "51_business_mixed_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "52_business_mixed_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "53_business_mixed_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "54_technical_ar_Cairo_light",
+    "pages": 2,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "55_technical_ar_Cairo_dark",
+    "pages": 2,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "56_technical_ar_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "57_technical_ar_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "58_technical_ar_Poppins_light",
+    "pages": 2,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "59_technical_ar_Poppins_dark",
+    "pages": 2,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "60_technical_en_Cairo_light",
+    "pages": 2,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "61_technical_en_Cairo_dark",
+    "pages": 2,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "62_technical_en_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "63_technical_en_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "64_technical_en_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "65_technical_en_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "66_technical_mixed_Cairo_light",
+    "pages": 2,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "67_technical_mixed_Cairo_dark",
+    "pages": 2,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "68_technical_mixed_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "69_technical_mixed_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "70_technical_mixed_Poppins_light",
+    "pages": 2,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "71_technical_mixed_Poppins_dark",
+    "pages": 2,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "72_ats_ar_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "73_ats_ar_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "74_ats_ar_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "75_ats_ar_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "76_ats_ar_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "77_ats_ar_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "78_ats_en_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "79_ats_en_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "80_ats_en_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "81_ats_en_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "82_ats_en_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "83_ats_en_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "84_ats_mixed_Cairo_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "85_ats_mixed_Cairo_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "86_ats_mixed_Sukar_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "87_ats_mixed_Sukar_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "88_ats_mixed_Poppins_light",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  },
+  {
+    "name": "89_ats_mixed_Poppins_dark",
+    "pages": 1,
+    "contacts_dates": true,
+    "text_bounds": true
+  }
+]

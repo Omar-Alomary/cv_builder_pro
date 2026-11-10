@@ -1,0 +1,47 @@
+[
+  {
+    "text": "",
+    "content-desc": "CV Maker Pro",
+    "class": "android.view.View",
+    "bounds": "[72,443][1008,506]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Choose your language",
+    "class": "android.view.View",
+    "bounds": "[72,806][1008,902]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Select your preferred language. You can change it later in settings.",
+    "class": "android.view.View",
+    "bounds": "[72,926][1008,1058]",
+    "clickable": "false",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "Select English",
+    "class": "android.widget.Button",
+    "bounds": "[72,1142][1008,1442]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  },
+  {
+    "text": "",
+    "content-desc": "اختيار اللغة العربية",
+    "class": "android.widget.Button",
+    "bounds": "[72,1478][1008,1778]",
+    "clickable": "true",
+    "enabled": "true",
+    "focused": "false"
+  }
+]

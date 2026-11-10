@@ -1,0 +1,16 @@
+{
+  "ack": "1793326887972176700",
+  "route": "/language-selection",
+  "errors": [],
+  "resumes": [],
+  "current": null,
+  "locale": "en",
+  "profile": null,
+  "dark": false,
+  "metrics": {
+    "physicalWidth": 1080.0,
+    "physicalHeight": 2136.0,
+    "dpr": 3.0,
+    "keyboardBottom": 0.0
+  }
+}

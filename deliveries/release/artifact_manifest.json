@@ -1,0 +1,16 @@
+{
+  "apk": "C:\\Flutter\\flutter_apps\\cv_builder_pro\\build\\app\\outputs\\flutter-apk\\app-release.apk",
+  "bytes": 60034954,
+  "sha256": "4d3f138709127e6ccd4d58accda4d2050d222b07d65297e6ffef10144d60a8b8",
+  "dart_libraries": [
+    "lib/arm64-v8a/libapp.so",
+    "lib/armeabi-v7a/libapp.so",
+    "lib/x86_64/libapp.so"
+  ],
+  "symbols": [
+    "build\\app\\outputs\\symbols\\app.android-arm.symbols",
+    "build\\app\\outputs\\symbols\\app.android-arm64.symbols",
+    "build\\app\\outputs\\symbols\\app.android-x64.symbols"
+  ],
+  "release_device_errors": []
+}
